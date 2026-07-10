@@ -1,0 +1,21 @@
+{
+  "name": "d-puzzle-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "index": "npx -y pagefind --site public --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "11ty.ts": "^0.0.7",
+    "markdown-it-attrs": "^4.3.1",
+    "@pagefind/component-ui": "^1.5.2"
+  }
+}

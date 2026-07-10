@@ -1,0 +1,150 @@
+:root {
+  --clr-lightest: #ffffff;
+  --clr-light: #e6edf2;
+  --clr-dark: #004550;
+  --clr-darkest: #000000;
+
+  --clr-primary: var(--clr-light);
+  --clr-secondary: #6f6e6e;
+  --clr-accent: #c85000;
+  --clr-links: #e42e95;
+  --clr-contrast: var(--clr-dark);
+  /* calculated: */
+  --clr-dark-lighter:  hsl(from var(--clr-dark) h calc(s * 0.5) calc(l * 1.8));
+  --clr-accent-darker: hsl(from var(--clr-accent) h calc(s * 0.5) l);
+  --clr-links-visited:  hsl(from var(--clr-links) h calc(s * 0.4) l);
+
+  --font-family: Roboto, Arial, sans-serif;
+  /* pagefind */
+  --pf-font: var(--font-family);
+}
+
+/* ---- Standard HTML elements ---- */
+body {
+  font-family: var(--font-family);
+  font-weight: lighter;
+  color: var(--clr-light);
+  background-color: var(--clr-dark);
+
+  box-sizing: border-box;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding-top: 60px;
+  padding-left: 12px;
+  padding-right: 12px;
+  
+}
+
+* {
+  scroll-margin-top: 30px; /* Matches header height + some margin */
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--clr-accent);
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+h2, h3 {
+  margin-top: 2.5rem;
+}
+
+h1 {
+  line-height: 3.2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  line-height: 1.9rem;
+}
+
+h4 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  text-align: start;
+}
+
+p,
+ol,
+ul,
+li, 
+a {
+  margin: 0;
+  margin-block-start: 0;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.8rem;
+  text-align: start;
+}
+
+p {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+li, 
+li > p {
+  /* MD sometimes generates p inside li */
+  margin-top: 0.25rem;
+  text-align: justify;
+}
+
+em {
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
+  font-weight: bold;
+  font-style: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+figure {
+  justify-items: center;
+  min-width: 250px;
+  /* max-width: 520px; */
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  
+  break-inside: avoid;
+}
+
+figcaption {
+  p {
+    margin-top: 0.6rem;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    text-align: center;
+
+    a {
+      font-size: 1rem;
+    }
+  }
+
+}
+
+a:link {
+  color: var(--clr-links);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--clr-links-visited);
+}

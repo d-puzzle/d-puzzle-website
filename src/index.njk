@@ -1,0 +1,25 @@
+---
+title: d-puzzle
+layout: 'base.njk'
+---
+
+<main>
+   <section>
+      <div class="d-puzzle-title">
+         <img src="assets/d-puzzle-logo-for-dark-background.svg" alt="d-puzzle logo">
+      </div>
+      <div class="d-puzzle-slogan">
+         <img src="assets/d-puzzle-slogan-1.svg" alt="d-puzzle slogan">
+      <div>
+   </section>
+
+   <!------------------->
+   <section>
+      {%- renderFile 'src/content/main-page/puzzled.md' -%}
+   </section>
+
+   <!------------------->
+   <section>      
+      {%- renderFile 'src/content/main-page/offering.md' -%}
+   </section>
+</main>

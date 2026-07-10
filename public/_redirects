@@ -1,0 +1,5 @@
+# Redirect the naked d-puzzle.com
+https://d-puzzle.com/* https://www.d-puzzle.org/:splat 301!
+
+# Redirect any subdomain of d-puzzle.com (www, public, etc.)
+https://*.d-puzzle.com/* https://www.d-puzzle.org/:splat 301!

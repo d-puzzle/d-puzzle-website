@@ -1,0 +1,347 @@
+/* ---- Home page ---- */
+
+.d-puzzle-title {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+
+  display: grid;
+  justify-items: center;
+  row-gap: 2em;
+
+  img {
+    width: 100%;
+    min-width: 100px;
+    max-width: 300px;
+  }
+}
+
+.d-puzzle-slogan {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  display: grid;
+  justify-items: center;
+  
+  img {
+    height: 30px;
+  }
+}
+
+.external-link {
+  font-size: 0.7rem;
+  vertical-align: top;
+}
+
+/* ---- Main flow and layout ---- */
+
+.chapter {
+  padding-top:0;
+  padding-bottom: 2rem;
+  
+  display: grid;
+  justify-items: center;
+}
+
+.top-separator {
+  width: 100%;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: var(--clr-secondary);
+}
+
+.bottom-separator {
+  width: 100%;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: var(--clr-secondary);
+}
+
+.suppress-top-margin {
+  margin-top: 0;
+}
+
+.footnote {
+  font-weight: ligher;
+  font-size: 1.0rem;
+  line-height: 1.4rem;
+  text-align: start;
+  text-indent: 0.8rem hanging;
+  scroll-margin-top: calc(100vh - 70px);
+}
+
+.footnotes {
+  position: relative;
+  padding: 1rem 0 0 0;
+  margin: 1.0 0;
+}
+
+
+.footnotes::before {  /* horizontal line before , 25% width */
+  content: '';
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  width: 25%;
+  height: 1px;
+  background-color: var(--clr-secondary);
+}
+
+
+/* Emphasis and spacing */
+
+.maniculed-hint {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 1rem;
+
+  text-align: center;
+  font-weight: normal;
+  /* color: var(--clr-secondary); */
+
+  img {
+    height: 1.5rem;
+  }
+}
+
+.subtitle,
+.take-away {
+  p {
+    margin-top: 0;
+  }
+  font-size: 1.2rem;
+  padding: 0.8rem 1.6rem;
+  margin: 1.5rem 0;
+  justify-self: center;
+  font-weight: normal;
+  text-align: center;
+}
+
+.subtitle {
+  color: var(--clr-primary);
+  background-color: var(--clr-dark-lighter);
+  break-inside: avoid;
+}
+
+.take-away {
+  max-width: 800px;
+  color: var(--clr-primary);
+  background-color: var(--clr-secondary);
+  break-inside: avoid;
+}
+
+.standout {
+  color: var(--clr-accent);
+  font-weight: bold;
+}
+
+.p-big {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  text-align: center;
+}
+
+p {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.air {
+  margin-top: 0.75rem;
+}
+
+.more-air {
+  margin-top: 1.5rem;
+}
+
+.airbourne {
+  margin-top: 3rem;
+}
+
+/* Responsive Design: Text */
+
+/* Narrower lines = Better readability: */
+.single-column-text, 
+.two-column-text-container {
+  max-width: 840px;
+  margin-inline: auto;
+}
+
+.two-column-text-container {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.two-column-text,
+.multi-column-text {
+  max-width: 600px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-inline: auto;
+
+  /* Optional: prevent column breaks in awkward places */
+  h2, h3 {
+    break-after: avoid-column;
+    break-inside: avoid;
+  }
+}
+  
+.two-column-text > p,
+.multi-column-text > p {
+  text-align: justify;
+}
+
+.two-column-text > .span-columns {
+  column-span: all;
+}
+
+
+.multi-column-text > p:not(.subtitle, .take-away),
+.multi-column-text > ul > li,
+.multi-column-text a {
+  font-family: serif;
+  font-weight: ligher;
+  font-size: 1.3rem;
+}
+
+.multi-column-text .footnote {
+  font-family: serif;
+  font-size: 1.1rem;
+}
+
+@media (min-width: 872px) {
+  
+  .two-column-text, .multi-column-text {
+    max-width: unset;
+    column-width: 400px;  /* Minimum width per column */
+    column-gap: 2rem;
+  }
+
+  .two-column-text {
+    column-count: 2;
+  }
+
+  .multi-column-text {
+    column-rule: 0px solid var(--clr-secondary); /* vertical divider */
+  }
+}
+
+
+/* Images */
+
+.img-light-background {
+  img {
+    background-color: var(--clr-light);
+    padding: 5px;
+  }
+}
+
+.img-secondary-background {
+  img {
+    background-color: var(--clr-secondary);
+  }
+}
+
+.single-figure-full-width {
+  min-width: 250px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-inline: auto;
+}
+
+
+/* Collapsible content */
+
+.collapsible-container {
+  display: grid;
+  justify-items: center;
+}
+
+.collapsible-button {
+  margin-top: 1rem;
+  padding: 18px;
+  width: 300px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-size: 1.2rem;
+  text-align: center;
+  color: var(--clr-light);
+  background-color: var(--clr-accent-darker);
+}
+
+.collapsible-content {
+  display: grid;
+  justify-items: center;
+  margin-inline: auto;
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.collapsible-button-active, .collapsible-button:hover {
+  background-color: var(--clr-accent);
+}
+
+.collapsible-button:after {
+  float: right;
+  content: '\002B';
+  margin-left: 5px;
+  font-weight: bold;
+  color: var(--clr-light);
+}
+
+.collapsible-button-active:after {
+  content: "\2212";
+}
+
+/* YouTube Video */
+/*** There is some hocus-pocus going on with zero-bottom-padding.
+ *** max-width is set on top of width.
+ *** May want to try the 'aspect-ratio' property instead.
+ ***/
+.video-container {
+  position: relative;
+  margin-top: 30px;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  width: 100%;
+  max-width: 840px; /* same as single-column-text */
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Social-Media Profiles */
+.linkedin-outline {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #0A66C2;
+  border: 2px solid #0A66C2;
+  background: var(--clr-light);
+  padding: 10px 22px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.linkedin-outline:hover {
+  background: #0A66C2;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(10, 102, 194, 0.2);
+}
+
+.linkedin-outline:hover svg {
+  fill: white;
+}
