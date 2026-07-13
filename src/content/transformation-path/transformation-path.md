@@ -14,7 +14,7 @@ Für Firmen, Verwaltungen, Institutionen, Clubs, etc. ist Software unternehmensk
 Die tiefere Ursache dafür liegt meist nicht bei den Software-Entwicklern &mdash;
 sondern leider bei den Organisationen selbst.{.take-away}
 
-Typische Probleme solcher Projekte in Organisationen sind:{.p-left-aligned}
+Typische <em>Probleme</em> solcher Projekte in Organisationen sind:{.p-left-aligned}
 
 - Massive Kosten- und Terminüberschreitungen.
 - Neuaufstellung oder gar Abbruch von Projekten.
