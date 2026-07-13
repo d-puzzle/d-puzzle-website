@@ -85,7 +85,7 @@ a {
   margin: 0;
   margin-block-start: 0;
   font-size: 1.2rem;
-  font-weight: 300;
+  font-weight: 100;
   line-height: 1.8rem;
   text-align: start;
 }
@@ -98,7 +98,7 @@ p {
 li, 
 li > p {
   /* MD sometimes generates p inside li */
-  margin-top: 0.25rem;
+  margin-top: 0.5rem;
   text-align: justify;
 }
 
@@ -107,6 +107,14 @@ em {
   padding-right: 0.1rem;
   font-weight: bold;
   font-style: normal;
+}
+
+sup {
+  font-size: 70%;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+  line-height: 0;
 }
 
 img {

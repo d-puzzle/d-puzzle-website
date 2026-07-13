@@ -1,6 +1,8 @@
 <div class="single-column-text top-separator">
-
-# Offering
+<p></p>
+<div class="d-puzzle-slogan airbourne">
+    <img src="assets/d-puzzle-slogan-2.svg" alt="text 'let's depuzzle">
+</div>
 
 </div>
 
@@ -22,8 +24,8 @@
             <p>Wir stellen Ihre organisatorischen <em>Prozesse ins Zentrum</em>.</p>
             <p>&mdash;&mdash;</p>
             <p>Zuerst bauen wir gemeinsamen mit Ihren Fachleuten ein <em>präzises Verständnis</em> Ihrer aktuellen Fachprozesse und Geschäftsbereiche auf.</p>
-            <p>Dann entwickeln wir mit Ihnen systematisch ein <em>Zielbild</em>, spezifizieren und validieren die zukünftigen Prozesse.</p>
-            <p>Erst danach planen wir eine etappierte Umsetzung mit Ihrer Organisation und Ihren Software-Partnern.</p>
+            <p>Unsere <em>Prozessarchitekten</em> entwickeln wir mit Ihnen systematisch ein <em>Zielbild</em>, spezifizieren und validieren die <em>zukünftigen Prozesse</em>.</p>
+            <p>Erst danach planen wir eine etappierte Umsetzung mit Ihrer Organisation, den <em>Technologien und Partnern Ihrer Wahl</em>.</p>
         </div>
         <p class="card-button">Vorgehensmodell</p>
     </a>
@@ -33,7 +35,7 @@
             <h3>Innovatives, toolgestütztes Vorgehen</h3>
             <p>Unser extrem innovativer, methodischer Ansatz, der durch unseren eigenen, <em>modernsten Werzeuge</em> überhaupt erst möglich wird, setzt neue Masstäbe für Wissensmanagement, Integration von Stakholdern und Transparenz.</p>
             <p>Wir erstellen <em>kohärente Modelle</em> Ihrer aktuellen und Ihrer zukünftigen Lösung &mdash; dazwischen liegt die Transformation.</p>
-            <p>Die Soll-Modelle bilden die <em>verlässliche Grundlage</em> für die Auswahl der Software-Partner und für die Umsetzung sowohl der digitalen wie auch der organisatorischen Elemente.
+            <p>Die Soll-Modelle bilden die <em>verlässliche Grundlage</em> für die Auswahl der Partner und für die Umsetzung sowohl der digitalen wie auch der organisatorischen Elemente.
         </div>
         <p class="card-button">Methodik <span class="external-link">↗</span></p>
     </a>
