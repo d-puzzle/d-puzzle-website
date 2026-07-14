@@ -75,7 +75,7 @@ Hier ist ein typischer Projektablauf mit seinen wichtigsten Ergebnissen (hervorg
 
 #### Bemerkungen
 
-- Die Aktivitäten 3, 4→7, 9→10 und 11 werden am besten iterativ durchlaufen.
+- Die Aktivitäten 3, 4→7, 9→10 und 11 werden am besten iterativ/agil durchlaufen.
 - Die ganze Abfolge 1→11 kann und soll iterativ durchlaufen werden.
 
 ## Was ist daran so innovativ?
