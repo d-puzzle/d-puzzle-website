@@ -24,7 +24,7 @@ Typische <em>Probleme</em> solcher Projekte in Organisationen sind:{.p-left-alig
 - Gewinn- und Reputationsverlust.
 - etc.
 
-Die <em>Grundursachen</em> dafür sind:{.p-left-aligned .more-air}
+Die <em>Grundursachen</em> sind:{.p-left-aligned .more-air}
 
 - Die Prozessse von Organisationen sind unglaublich komplex und funktionieren nur, weil das Personal über jahrelange Erfahrung verfügt und deshalb Unerwartetes bestmöglich handhabt.
 - Das macht die Digitalisierung zu einer enormen Herausforderung, die nur von der Fachebene aus gelingen kann &mdash; technologiegetriebene Ansätze sind zum Scheitern verurteilt.
@@ -35,10 +35,11 @@ Die <em>Grundursachen</em> dafür sind:{.p-left-aligned .more-air}
 
 Die Organisation muss die Verantwortung über ihre eigene Digitalisierung übernehmen und diese selbst gestalten und führen (können).{.take-away}
 
-- Digitalisierung ist keine einmalige Angelegenheit &mdash; sie bleibt auch nach dem initialen Projekt eine zentrale Daueraufgabe. Organisationen dürfen ihre Kernprozesse nicht an Software-Entwickler delegieren.
-- Nur die Organisation selbst hat dazu das notwendige, umfassende Fach-, Prozess- und Organisationswissen, um die digitale Zukunft zu bestimmen.
-- Software-Entwickler sollen Software entwickeln anstatt sich vom Projekt zu Fachexperten aubilden zu lassen.
-- Die Organisation muss für ihre Kernprozesse selbst und umfassend verantwortlich sein (können).
+- Digitalisierung ist keine einmalige Angelegenheit &mdash; sie bleibt auch nach dem initialen Projekt eine zentrale Daueraufgabe.
+- Die Gestaltung, Dokumentation und Evolution der Organisation, ihrer Prozesse, Produkte und Services ist eine Kernaufgabe der Organisation; sie darf nicht delegiert werden.
+- Die Organisation verfügt über das dazu notwendige, umfassende Fach-, Prozess-, Organisationswissen.
+- Prozess- und Software-Architekten helfen, das Digitalisierungspotential zu eruieren, und erstellen eine kohärente, adäquate Prozess- und Systemarchitektur.
+- Software-Teams sind Technologiespezialisten, die Systemspezifikationen mitgestalten und umsetzen.
 
 ## Wie soll das möglich sein?
 
@@ -47,11 +48,11 @@ d-puzzle macht es sich zur Aufgabe, Organisationen mit einer dokumentieren Metho
 - Als nachvollziehbare Grundlage haben wir dazu das <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org/">Semantic Eye Framework</a> entwickelt.
     - Es stellt die Organisation und ihre organisatorischen Prozesse in den Mittelpunkt.
     - Es schafft eine gemeinsame und präzise Sprache zwischen Fachbereichen und Technologieexperten.
-    - Es setzt die Organisation in den «Driver's Seat».
+    - Es setzt die Organisation in den «Driver's Seat» des Vorhabens.
 - Unser dediziertes, digitales Tool 
     - baut auf einer state-of-the-art <a target="_blank" rel="noopener noreferrer" href="https://theia-ide.org//">Open-Source Plattform</a> auf und kann lokal installiert werden oder im Internet-Browser laufen;
-    - unterstützt und befähigt das Projekt-Team zu einer neuen Arbeitsweise auf der Fachebene, die an die erfolgreiche Arbeitsweise in Software-Teams angelehnt ist;
-    - bietet nativ erstklassige KI-Unterstützung an, damit auf fachlicher Ebene das volle Potenzial der Modelle (s.u.) auf zugängliche Weise ausgeschöft werden kann.
+    - unterstützt und befähigt das Projekt-Team zu einer neuen Arbeitsweise auf der Fachebene, die sich an der erfolgreichen Arbeitsweise von Software-Teams orientiert;
+    - bietet nativ erstklassige KI-Unterstützung, damit auf fachlicher Ebene das volle Potenzial der Modelle (s.u.) in zugänglicher Weise ausgeschöft werden kann.
 - Organisationen lernen das Tool wirksam einzusetzen und übernehmen es zur Dokumentation, Planung und Umsetzung ihrer Prozesse.
 
 ## Projektvorgehen
@@ -94,12 +95,12 @@ Unser Tool befähgt das Team, die enorme Komplexität der Prozesse zu beherrsche
 - Wir wollen zuerst in angemessener Breite (Umfang) und Tiefe (Detaillierungsgrad) <em>verstehen, WAS die Organisation heute genau macht, WIE und WARUM sie das tut</em>.
 - Daraus erstellen wir ein konzeptionelles<sup>1</sup> Ist-Modell der betroffenen Fachgebiete und -prozesse.
 - Später erstellen wir ein Zielbild (<i>«Wie wollt Ihr in fünf Jahren arbeiten?»</i>) und erarbeiten ein konzeptionelles<sup>1</sup> <em>Soll-Modell der zukünftigen Lösung</em>.
-- Dieses Soll-Modell ist die Basis für alle Spezifikationen und Umsetzungsplanungen. Es entspricht den <em>Bauplänen</em>, wie sie beim Bau eines Hauses, einer Fabrik, eines Motors, etc. angefertigt und eingesetzt werden &mdash; seit über 500 Jahren und mit grossem Erfolg.
-- Unser einzigartiges Tool übernimmt dabei die zentrale Rolle, die CAD und BIM<sup>2</sup> in der Bauindustrie seit über 50 Jahren einnehmen.
 - Damit wir dabei kein Luftschloss entwerfen, das sich nicht umsetzen oder nicht finanzieren lässt, integrieren wir <em>von Anfang an Technologie-, Software- und Prozessfachleute</em><sup>3</sup>.
 - Wir reviewen das Soll-Modell mit allen relevanten Steakholders und passen es an &mdash; so lange, bis sich alle einig sind, <i>«So können wir unsere Ziele erreichen!»</i>.
+- Das Soll-Modell ist die Basis für alle Spezifikationen und Umsetzungsplanungen. Es entspricht den <em>Bauplänen</em>, wie sie beim Bau eines Hauses, einer Fabrik, eines Motors, etc. angefertigt und eingesetzt werden &mdash; seit über 500 Jahren und mit grossem Erfolg.
+- Unser einzigartiges Tool übernimmt dabei die zentrale Rolle, die CAD und BIM<sup>2</sup> in der Bauindustrie seit über 50 Jahren einnehmen.
 - Zusammen mit den Umsetzungspartnern erstellen wir verbindliche <em>technologiespezifische Systemspezifikationen</em> und überwachen den Umsetzungsprozess.
-- Im Gegensatz zu Anforderungen, die nach der Umsetzung generell nicht weitergepflegt werden, werden die Soll-Modelle nach der Umsetzung zum neuen Ist-Modell. Sie werden bei Erweiterungen und Anpassungen zu neuen Soll-Modellen entwickelt und leben so lange wie die Prozesse selbst. Genau wie die Baupläne eines Gebäudes oder einer Maschine.
+- Im Gegensatz zu Anforderungen, die nach der Umsetzung generell nicht weitergepflegt werden, werden ein Soll-Modell nach der Umsetzung zum neuen Ist-Modell. Es wird bei Erweiterungen und Anpassungen zu einem neuen Soll-Modell weiterentwickelt und lebt so lange wie die Organisationsprozesse selbst. Genau wie die Baupläne eines Gebäudes oder einer Maschine.
 
 Wir befähigen Organisation, ihre <em>Prozesse und Digitalisierung selbstbestimmt, nachhaltig</em> und schliesslich ohne uns aufzustellen.{.take-away}
 

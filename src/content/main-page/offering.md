@@ -33,7 +33,7 @@
         <img  src="/assets/card-icons/checkmark-orange.svg" alt="Checkmark">
         <div class="card-text-content">
             <h3>Innovatives, toolgestütztes Vorgehen</h3>
-            <p>Unser extrem innovativer, methodischer Ansatz, der durch unseren eigenen, <em>modernsten Werzkeuge</em> überhaupt erst möglich wird, setzt neue Masstäbe für <em>Wissensmanagement</em>, Integration von Stakholdern und Transparenz.</p>
+            <p>Unser äusserst innovativer, methodischer Ansatz, der durch unseren eigenen, <em>modernsten Werzkeuge</em> überhaupt erst möglich wird, setzt neue Masstäbe für <em>Wissensmanagement</em>, Integration von Stakholdern und Transparenz.</p>
             <p>Wir erstellen <em>kohärente Modelle</em> Ihrer aktuellen und Ihrer zukünftigen Lösung &mdash; dazwischen liegt die Transformation.</p>
             <p>Die Soll-Modelle bilden die <em>verlässliche Grundlage</em> für die Auswahl der Partner und für die Umsetzung sowohl der digitalen wie auch der organisatorischen Elemente.
         </div>
@@ -46,7 +46,7 @@
             <p>Die meisten Software-Projekte in Unternehmen geraten in Schieflage, müssen neu aufgestellt oder abgebrochen werden.</p>
             <p>Wir auditieren Projekte und machen (optional) aus einem Scherbenhaufen wieder ein <em>erfolgreiches Projekt</em>.</p>
             <p>&mdash;&mdash;</p>
-            <p>Als äusserst <em>erfahrene Projektleiter</em> führen wir Ihre Firma durch eine erfolgreiche Digitale Transformation.</p>
+            <p>Als sehr <em>erfahrene Projektleiter</em> führen wir Ihre Firma durch eine erfolgreiche Digitale Transformation.</p>
             <p>N.B. Projektleitungen übernehmen wir nur, wenn das Projekt auch nach unserem methodischen Ansatz abgewickelt wird.</p>
         </div>
         <p class="card-button">Kontakt</p>
