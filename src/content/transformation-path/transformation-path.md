@@ -29,25 +29,30 @@ Die <em>Grundursachen</em> dafür sind:{.p-left-aligned .more-air}
 - Die Prozessse von Organisationen sind unglaublich komplex und funktionieren nur, weil das Personal über jahrelange Erfahrung verfügt und deshalb Unerwartetes bestmöglich handhabt.
 - Das macht die Digitalisierung zu einer enormen Herausforderung, die nur von der Fachebene aus gelingen kann &mdash; technologiegetriebene Ansätze sind zum Scheitern verurteilt.
 - Organisation delegieren Kernaufgaben hoffnungsvoll an Software-Partner, die diese gar nicht wahrnehmen können &mdash; leider versuchen sie es dennoch.
-- Die Digitalisierungsindustrie ist unreif: sie verfügt kaum über adäquate Werkzeuge und mogelt sich mit Trial-and-Error durch.
+- Die Digitalisierungsindustrie ist unreif: sie verfügt selten über tiefes Fach- und Prozesswissen, setzt kaum digitale Werkzeuge ein und mogelt sich mit Trial-and-Error-Vorgehen durch.
 
 ## Abhilfe: Die Organisation gestaltet und führt ihre Transformation selbst
 
 Die Organisation muss die Verantwortung über ihre eigene Digitalisierung übernehmen und diese selbst gestalten und führen (können).{.take-away}
 
-- Nur die Organisation selbst hat das notwendige, umfassende Fach-, Prozess- und Organisationswissen.
-- Software-Entwickler haben meist keine Ahnung davon &mdash; und sie sollen Software entwickeln statt Fachspezialisten werden.
-- Die Organisation muss für ihre Kernprozesse selbst und kompetent verantwortlich sein (können).
-- Digitalisierung ist keine einmalige Angelegenheit, sondern bleibt auch nach einem initialen Projekt eine zentrale Daueraufgabe &mdash; Organisationen dürfen ihre Kernprozesse nicht auf unbestimmte Zeit von (externen) Software-Entwicklern bestimmen lassen.
+- Digitalisierung ist keine einmalige Angelegenheit &mdash; sie bleibt auch nach dem initialen Projekt eine zentrale Daueraufgabe. Organisationen dürfen ihre Kernprozesse nicht an Software-Entwickler delegieren.
+- Nur die Organisation selbst hat dazu das notwendige, umfassende Fach-, Prozess- und Organisationswissen, um die digitale Zukunft zu bestimmen.
+- Software-Entwickler sollen Software entwickeln anstatt sich vom Projekt zu Fachexperten aubilden zu lassen.
+- Die Organisation muss für ihre Kernprozesse selbst und umfassend verantwortlich sein (können).
 
 ## Wie soll das möglich sein?
 
 d-puzzle macht es sich zur Aufgabe, Organisationen mit einer dokumentieren Methode und einem starken, digitalen Tool zu befähigen, ihre Transformation selbst in die Hand zu nehmen.{.take-away}
 
-- Als nachvollziehbare Grundlage haben wir dazu das <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org/">Semantic Eye Framework</a> entwickelt und bauen dafür zusammen mit Partnern das erste dedizierte, digitale Werkzeug seiner Art.
-- Das Tool unterstützt und befähigt das Projekt-Team zu einer neuen Arbeitsweise auf Fachebene, die an die Arbeitsweise in Software-Teams angelehnt ist und von deren Werkzeugen und Erfahrungen profitiert.
-- Organisationen lernen das Tool produktiv einzusetzen und übernehmen es zur Dokumentation, Planung und Umsetzung ihrer Prozesse.
-- Das Tool bietet <a target="_blank" rel="noopener noreferrer" href="https://theia-ide.org//">erstklassige KI-Unterstützung</a> an. Damit kann auf fachlicher Ebene auf zugängliche Weise das volle Potenzial der Modelle (s.u.) ausgeschöft werden.
+- Als nachvollziehbare Grundlage haben wir dazu das <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org/">Semantic Eye Framework</a> entwickelt.
+    - Es stellt die Organisation und ihre organisatorischen Prozesse in den Mittelpunkt.
+    - Es schafft eine gemeinsame und präzise Sprache zwischen Fachbereichen und Technologieexperten.
+    - Es setzt die Organisation in den «Driver's Seat».
+- Unser dediziertes, digitales Tool 
+    - baut auf einer state-of-the-art <a target="_blank" rel="noopener noreferrer" href="https://theia-ide.org//">Open-Source Plattform</a> auf und kann lokal installiert werden oder im Internet-Browser laufen;
+    - unterstützt und befähigt das Projekt-Team zu einer neuen Arbeitsweise auf der Fachebene, die an die erfolgreiche Arbeitsweise in Software-Teams angelehnt ist;
+    - bietet nativ erstklassige KI-Unterstützung an, damit auf fachlicher Ebene das volle Potenzial der Modelle (s.u.) auf zugängliche Weise ausgeschöft werden kann.
+- Organisationen lernen das Tool wirksam einzusetzen und übernehmen es zur Dokumentation, Planung und Umsetzung ihrer Prozesse.
 
 ## Projektvorgehen
 
@@ -66,7 +71,7 @@ Hier ist ein typischer Projektablauf mit seinen wichtigsten Ergebnissen (hervorg
 6. Technologiekandidaten identifizieren & validieren.
 7. Soll-Situation erarbeiten & abstimmen ➔ <em>Soll-Modell</em> erstellen.
 
-8. Umsetzungspartner & -technologien festlegen.
+8. Umsetzungspartner & -technologien nominieren.
 9. <em>Systemarchitektur und -spezifikationen</em> erarbeiten & abstimmen.
 10. Migrationspfad / Transformationspfad erarbeiten & abstimmen.
 11. Etappiert umsetzen ➔ Realisierung und Einführung der Lösung in <em>Releases</em>.
@@ -75,7 +80,7 @@ Hier ist ein typischer Projektablauf mit seinen wichtigsten Ergebnissen (hervorg
 
 #### Bemerkungen
 
-- Die Aktivitäten 3, 4→7, 9→10 und 11 werden am besten iterativ/agil durchlaufen.
+- Die Aktivitäten 3, 4→7, 9→11 werden am besten iterativ/agil durchlaufen.
 - Die ganze Abfolge 1→11 kann und soll iterativ durchlaufen werden.
 
 ## Was ist daran so innovativ?
@@ -92,12 +97,11 @@ Unser Tool befähgt das Team, die enorme Komplexität der Prozesse zu beherrsche
 - Dieses Soll-Modell ist die Basis für alle Spezifikationen und Umsetzungsplanungen. Es entspricht den <em>Bauplänen</em>, wie sie beim Bau eines Hauses, einer Fabrik, eines Motors, etc. angefertigt und eingesetzt werden &mdash; seit über 500 Jahren und mit grossem Erfolg.
 - Unser einzigartiges Tool übernimmt dabei die zentrale Rolle, die CAD und BIM<sup>2</sup> in der Bauindustrie seit über 50 Jahren einnehmen.
 - Damit wir dabei kein Luftschloss entwerfen, das sich nicht umsetzen oder nicht finanzieren lässt, integrieren wir <em>von Anfang an Technologie-, Software- und Prozessfachleute</em><sup>3</sup>.
-- Wir reviewen das Soll-Modell mit allen relevanten Steakholders und passen es an &mdash; so lange, bis sich alle einig sind, <i>«So können wir unsere Ziele erfüllen!»</i>.
+- Wir reviewen das Soll-Modell mit allen relevanten Steakholders und passen es an &mdash; so lange, bis sich alle einig sind, <i>«So können wir unsere Ziele erreichen!»</i>.
 - Zusammen mit den Umsetzungspartnern erstellen wir verbindliche <em>technologiespezifische Systemspezifikationen</em> und überwachen den Umsetzungsprozess.
-- Im Gegensatz zu Anforderungen, die nach der Umsetzung generell nicht weitergepflegt werden, werden die Soll-Modelle nach der Umsetzung zum neuen Ist-Modell. Sie werden bei Erweiterungen und Anpassungen zu neuen Soll-Modellen entwickelt und leben so lange wie die Prozesse selbst. Genau wie Baupläne.
+- Im Gegensatz zu Anforderungen, die nach der Umsetzung generell nicht weitergepflegt werden, werden die Soll-Modelle nach der Umsetzung zum neuen Ist-Modell. Sie werden bei Erweiterungen und Anpassungen zu neuen Soll-Modellen entwickelt und leben so lange wie die Prozesse selbst. Genau wie die Baupläne eines Gebäudes oder einer Maschine.
 
-Wir befähigen Organisation, ihre <em>Prozesse und Digitalisierung nachhaltig</em>
-und <em>ohne uns aufzustellen</em>.{.take-away}
+Wir befähigen Organisation, ihre <em>Prozesse und Digitalisierung selbstbestimmt, nachhaltig</em> und schliesslich ohne uns aufzustellen.{.take-away}
 
 <div class="footnotes">
 
