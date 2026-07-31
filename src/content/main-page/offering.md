@@ -1,14 +1,14 @@
 <div class="single-column-text top-separator">
 <p></p>
 <div class="d-puzzle-slogan airbourne">
-    <img src="assets/d-puzzle-slogan-2.svg" alt="text 'let's depuzzle">
+    <img src="assets/slogan-2-dark-bg.svg" alt="text 'let's depuzzle">
 </div>
 
 </div>
 
 <div class="card-container">
     <div class="image-text-card">
-        <img  src="/assets/card-icons/checkmark-orange.svg" alt="Checkmark">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h3>Digitalisierung</h3>
             <p>Wir konzipieren, planen, führen<br>und unterstützen die<br><em>Evolution Ihrer Prozesse</em> oder<br>Ihre <em>Digitale Transformation</em><br>von der<br><em>Strategie bis zur Spezifikation</em>.</p>
@@ -18,7 +18,7 @@
         </div>
     </div>
     <a href="/pages/transformation-path/index.html" class="image-text-button-card">
-        <img  src="/assets/card-icons/checkmark-orange.svg" alt="Checkmark">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h3>Fokus Fachprozesse</h3>
             <p>Wir stellen Ihre organisatorischen <em>Prozesse ins Zentrum</em>.</p>
@@ -30,7 +30,7 @@
         <p class="card-button">Vorgehensmodell</p>
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org/" class="image-text-button-card">
-        <img  src="/assets/card-icons/checkmark-orange.svg" alt="Checkmark">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h3>Innovatives, toolgestütztes Vorgehen</h3>
             <p>Unser äusserst innovativer, methodischer Ansatz, der durch unsere eigenen, <em>modernsten Tools</em> überhaupt erst möglich wird, setzt neue Masstäbe für Transparenz, <em>Wissensmanagement</em> und Integration der Stakholder.</p>
@@ -40,7 +40,7 @@
         <p class="card-button">Methodik <span class="external-link">↗</span></p>
     </a>
     <a href="/pages/contact/index.html" class="image-text-button-card">
-        <img  src="/assets/card-icons/checkmark-orange.svg" alt="Checkmark">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h3>Projekt-Audits, Projektleitung</h3>
             <p>Die meisten Software-Projekte in Unternehmen geraten in Schieflage, müssen neu aufgestellt oder abgebrochen werden.</p>
@@ -51,4 +51,6 @@
         </div>
         <p class="card-button">Kontakt</p>
     </a>
+</div>
+<div class="single-column-text airbourne">
 </div>

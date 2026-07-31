@@ -5,11 +5,11 @@ layout: 'base.njk'
 
 <main>
    <section>
-      <div class="d-puzzle-title">
-         <img src="assets/d-puzzle-logo-for-dark-background.svg" alt="d-puzzle logo">
+      <div class="d-puzzle-scattered">
+         <img src="assets/logo-3-framed-3D-dark-bg.svg" alt="puzzle of three scattered pieces">
       </div>
       <div class="d-puzzle-slogan">
-         <img src="assets/d-puzzle-slogan-1.svg" alt="d-puzzle slogan">
+         <img src="assets/slogan-1-dark-bg.svg" alt="d-puzzle slogan">
       <div>
    </section>
 
@@ -21,5 +21,10 @@ layout: 'base.njk'
    <!------------------->
    <section>      
       {%- renderFile 'src/content/main-page/offering.md' -%}
+   </section>
+
+   <!------------------->
+   <section>      
+      {%- renderFile 'src/content/main-page/depuzzled.md' -%}
    </section>
 </main>

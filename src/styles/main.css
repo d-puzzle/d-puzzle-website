@@ -1,6 +1,6 @@
 /* ---- Home page ---- */
 
-.d-puzzle-title {
+.d-puzzle-scattered, .d-puzzle-solved {
   padding-top: 3rem;
   padding-bottom: 1rem;
 
@@ -14,6 +14,15 @@
     max-width: 300px;
   }
 }
+
+.d-puzzle-solved {
+  padding-top: 0;
+
+  img {
+    max-width: 200px;
+  }
+}
+
 
 .d-puzzle-slogan {
   margin-top: 2rem;
