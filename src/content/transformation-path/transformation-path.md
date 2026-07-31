@@ -65,13 +65,13 @@ Hier ist ein typischer Projektablauf mit seinen wichtigsten Ergebnissen (hervorg
 
 1. Strategie abholen und verstehen, Auswirkungen abschätzen.
 2. Betroffene Fachgebiete identifizieren ➔ Umfang / Scope festlegen.
-3. Ist-Situation verstehen & mit relevanten Stakeholders abstimmen ➔ <em>Ist-Modell</em> erstellen.
+3. Ist-Situation verstehen & mit relevanten Stakeholders abstimmen ➔ End-to-End <em>Ist-Modell</em> erstellen.
 
 4. Strategie validieren, ggf. anpassen (lassen).
 5. Neue Anforderungen aufnehmen, analysieren & validieren.
 6. Zielbild erarbeiten und Digitalisierungspotential bestimmen.
 7. Technologiekandidaten identifizieren & validieren.
-8. Soll-Situation erarbeiten & abstimmen ➔ <em>Soll-Modell</em> erstellen.
+8. Soll-Situation erarbeiten & abstimmen ➔ End-to-End <em>Soll-Modell</em> erstellen.
 
 9. Umsetzungspartner & -technologien nominieren.
 10. <em>Systemarchitektur und -spezifikationen</em> erarbeiten & abstimmen.
@@ -82,6 +82,7 @@ Hier ist ein typischer Projektablauf mit seinen wichtigsten Ergebnissen (hervorg
 
 #### Bemerkungen
 
+- End-to-End bedeutet grob, «vom Kunden bis (zurück) zum Kunden»
 - Die Aktivitäten 3, 4→8, 10→12 werden am besten iterativ oder agil durchlaufen.
 - Die ganze Abfolge 1→12 soll iterativ durchlaufen werden.
 

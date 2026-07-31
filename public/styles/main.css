@@ -85,6 +85,21 @@
   background-color: var(--clr-secondary);
 }
 
+.ref {
+  margin-top: 1rem;
+  font-weight: lighter;
+  line-height: 1.4rem;
+  text-align: start;
+  text-indent: 0.8rem hanging;
+  scroll-margin-top: calc(100vh - 70px);
+}
+
+.reference {
+  position: relative;
+  padding: 1rem 0 0 0;
+  margin: 1.0 0;
+}
+
 
 /* Emphasis and spacing */
 
