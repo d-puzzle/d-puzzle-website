@@ -1,8 +1,8 @@
 <div class="single-column-text top-separator">
-<p></p>
-<div class="d-puzzle-slogan airbourne">
-    <img src="assets/slogan-2-dark-bg.svg" alt="text 'let's depuzzle">
-</div>
+
+Wir ersetzen Verwirrung und Überforderung durch<br>_Klarheit und systematischen Erfolg_.{.p-statement .airbourne}
+
+Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transformation_.{.p-big .airbourne}
 
 </div>
 
@@ -27,7 +27,7 @@
             <p>Dann entwickeln unsere <em>Prozessarchitekten</em> mit Ihnen systematisch ein <em>Zielbild</em>, spezifizieren und validieren die <em>zukünftigen Prozesse</em>.</p>
             <p>Erst danach planen wir eine etappierte Umsetzung mit Ihrer Organisation, den <em>Technologien und Partnern Ihrer Wahl</em>.</p>
         </div>
-        <p class="card-button">Vorgehensmodell</p>
+        <p class="card-button">Projektvorgehen</p>
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org/" class="image-text-button-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
@@ -45,12 +45,18 @@
             <h3>Projekt-Audits, Projektleitung</h3>
             <p>Die meisten Software-Projekte in Unternehmen geraten in Schieflage, müssen neu aufgestellt oder abgebrochen werden.</p>
             <p>Wir auditieren Projekte und machen (optional) aus einem Scherbenhaufen wieder ein <em>erfolgreiches Projekt</em>.</p>
-            <p>&mdash;&mdash;</p>
-            <p>Als sehr <em>erfahrene Projektleiter</em> führen wir Ihre Firma erfolgreich zu effektiven Prozessen und Software-Lösungen.</p>
-            <p>N.B. Projektleitungen übernehmen wir nur, wenn das Projekt auch nach unserem methodischen Ansatz abgewickelt wird.</p>
+            <p>Als sehr <em>erfahrene Projektleiter</em> führen wir Ihre Firma erfolgreich zu effektiven Prozessen und Software-Lösungen<sup>*</sup>.</p>
+            <div class="footnotes">
+                <p class="footnote"><sup>*</sup> Projektleitungen übernehmen wir nur, wenn das Projekt auch nach unserem methodischen Ansatz abgewickelt wird</p>
+            </div>
         </div>
         <p class="card-button">Kontakt</p>
     </a>
 </div>
+
 <div class="single-column-text airbourne">
+
+Ein vollständiges Puzzle richtig zusammenzusetzen ist reine Fleissarbeit. {.p-big}
+
+In 1000 Teilen frühzeitig das Gesamtbild zu erkennen, dessen Bedeutung richtig zu interpretieren und fehlende Teile zu beschaffen ist unser Metier.{.p-big}
 </div>

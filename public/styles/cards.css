@@ -20,7 +20,7 @@
 .text-button-card,
 .text-only-card,
 .image-caption-card,
-.image-only-card ,
+.image-only-card,
 .flip-card {
   width: 325px;
   /* border: 1px solid red;  // use for analysis */
@@ -80,7 +80,11 @@
   padding: 0 16px;
 
   h3 { 
-    margin: 0 0 16px 0;
+    margin: 0 0 8px 0;
+  }
+
+  .h3-two-lines {
+    min-height: 3.8rem;     /* 2 × line-height */
   }
     
   p,
@@ -90,7 +94,25 @@
     margin-top: 0.4rem;
     color: var(--clr-dark);
     font-size: 1.2rem; 
+    font-weight: 300;
     line-height: 1.6rem;
+  }
+
+  ul,
+  ol {
+    padding-left: 16px;
+    
+    li {
+      text-align: left;
+    }
+  }
+
+  ul > li::marker {
+    content: "– ";
+  }
+
+  .footnote {
+    font-size: 1rem;
   }
 }
 
