@@ -42,15 +42,16 @@ Die zwei _Grundursachen_ aller aufgeführten Mängel sind:{.more-air}
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Keine gemeinsame Sprache</h4>
-            <p>Es fehlt eine standardisierte, <em>fachorientierte Sprache</em> zwischen Fach- & Technologieexperten</p>
+            <p>Es fehlt eine standardisierte, <em>fachorientierte Sprache</em> zwischen Fach- & Technologieexperten.</p>
+            <p>Die Kommunikation ist geprägt von <em>Lücken und Missverständnissen</em></p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Kein umfassendes Soll-Bild</h4>
-            <p>Es gibt keine verständliches, <em>präzises und detaillierte Gesamtbild</em> der Fachgebiete, -regeln & -prozesse.</p>
-            <p>(Eines für heute, eines für morgen)</p>
+            <p>Es gibt keine verständliches, <em>präzises und detailliertes Gesamtbild</em> der Fachgebiete, -regeln & -prozesse.</p>
+            <p>(Weder eines für heute noch eines für «morgen»)</p>
         </div>
     </div>
 </div>
@@ -67,8 +68,7 @@ Viele Industrien gehen so vor und setzen _clevere digitale Tools_ ein.
 
 Lernen wir von ihnen!{.p-statement .more-air .framed}
 
-In unserer <a href="/pages/transformation-path/index.html">Einführung ins Projektvorgehen</a> erfahren Sie, was wir gelernt haben.{.more-air}
-
+In der <a href="/pages/transformation-path/index.html">Einführung ins Projektvorgehen</a> erfahren Sie, was wir gelernt haben.{.more-air}
 
 <div class="puzzle-solved more-air">
     <img src="/assets/puzzle-4-solved-3D-dark-bg.svg" alt="puzzle of four pieces solved">

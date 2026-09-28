@@ -1,10 +1,10 @@
 <div class="single-column-text">
 
 <p class="p-statement more-air framed">
-<img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Trial & Error<br>mit Klarheit & Methode
+<img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Trial & Error<br>durch Klarheit & Methode
 </p>
 
-Und wir befähigen Ihre Organisationen als
+Wir befähigen damit Ihre Organisationen als
 _Leader ihrer eigenen Digitalen Transformation_.{.p-big .more-air}
 
 </div>
