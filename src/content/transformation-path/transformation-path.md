@@ -95,8 +95,9 @@ In den meisten Digitalisierungsprojekten sind folgende _Mängel und Auswirkungen
 Der heute dominierende, agile Ansatz beginnt eine Digitalisierung praktisch _sofort mit Software-Entwicklung_. Weder der Kunde noch der Software-Partner haben ein tiefes Verständnis für die Abläufe und die Komplexität der bisherigen Prozesse, da diese kaum oder nur oberflächlich dokumentiert sind.
 
 <figure class="img-no-background">
+    <img class="no-shadow" src="/assets/transformation-path/evolution-agile.svg" alt="Zeitachse mit vier Kasten: e-Bike, e-Motorroller, dreirädriger e-Motorroller mit Flugzeugnase, e-Frachtflugzeug" width="700">
+    <figcaption><p>Evolution eines agil entwickelten Produkts (zeigt nur ausgewählte Releases)</p></figcaption>
 
-![Agiles Vorgehen](/assets/transformation-path/evolution-agile.svg){width="700"}
 </figure>
 
 Agile Entwicklung setzt _Software als extrem teures Kommunikationsmittel_ zwischen Fach- und Technologiespezialisten ein. Und endet zu oft mit den oben beschriebenen, _massiven Problemen_.
@@ -108,10 +109,8 @@ Wir müssen Digitalisierungen radikal anders angehen.{.p-statement .more-air .fr
 Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe von digitalen Modellen erarbeitet_, getestet und direkt verbessert werden können, ohne dass bereits Gruben ausgehoben, Metall gefräst oder teure Textilien zerschnitten werden müssen.
 
 <figure class="img-no-background">
-
-![Agiles Vorgehen](/assets/transformation-path/evolution-d-puzzle.svg){width="1000"}
-<figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
-
+    <img class="no-shadow" src="/assets/transformation-path/evolution-d-puzzle.svg" alt="Zeitachse mit fünf Kasten: Ist-Modell, Anforderungen, Zielbild, Soll-Modell, e-Frachtflugzeug" width="1000">
+    <figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
 </figure>
 
 Mithilfe _modernster digitaler Tools_ erarbeiten wir _konzeptionelle Modelle_ und validieren sie mit allen relevanten Stakeholders &mdash; bevor Software-Plattformen und -Partner ausgewählt oder die Umsetzung gestartet wird.
@@ -170,23 +169,22 @@ Ein konzeptionelles Modell ist eine _Erklärung_ &mdash; meist eine stark verein
 Ein gutes Beispiel ist das Verdunstungs-Niederschlagsmodell für das Wetter.
 
 <figure class="img-no-background">
-
-![Verdunstungs-Niederschlagsmodell für das Wetter](/assets/transformation-path/wetter-modell.jpg){width="1000"}
-<figcaption><p>Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a></p></figcaption>
+    <img src="/assets/transformation-path/wetter-modell.jpg" alt="Verdunstungs-Niederschlagsmodell für das Wetter" width="1000">
+    <figcaption><p>Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a></p></figcaption>
 </figure>
 
 In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für das Verständnis und die Kommunikation des Zyklus von Verdunstung und Niederschlag ist das Modell oben extrem hilfreich.
 
 <div class="d-puzzle-logo">
-    <img src="/assets/logo-circle-flat-dark-bg.svg" alt="logo">
+    <img class="no-shadow" src="/assets/logo-circle-flat-dark-bg.svg" alt="logo">
 </div>
 
 
 Ein weiteres Beispiel sind Pläne, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Sie werden mit allen Betroffenen diskutiert, dann angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird oder ein Bagger auffährt.{.air}
 
 <figure class="img-no-background">
-
-![Grundriss für eine Wohnung](/assets/transformation-path/floor-plan-pixabay.jpg){width="1000"}
+    <img src="/assets/transformation-path/floor-plan-pixabay.jpg" alt="Grundriss einer Wohnung" width="1000">
+    <figcaption><p>Grundriss einer Wohnung</a></p></figcaption>
 </figure>
 
 Die konzeptionellen Modelle von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> können sehr detaiiliert sein und sind für die ganze Organisation zugänglich.
@@ -198,8 +196,8 @@ Sie stellen eine _nachhaltige, Software-unabhängige Beschreibung_ der Prozesse,
 Der <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg">-Ansatz stützt sich auf den _Double Diamond_ des British Design Council und stellt damit sicher, dass _das wahre Problem erkannt_ und mit der _besten Lösung adressiert_ wird <a href="#f2"><sup>2</sup></a>.
 
 <figure class="img-light-background">
-
-![Double Diamond Vorgehen](/assets/transformation-path/double-diamond.svg){width="700"}
+    <img src="/assets/transformation-path/double-diamond.svg" alt="Double Diamond Vorgehen" width="700">
+    <figcaption><p>«Double Diamond» des Design Thinking</a></p></figcaption>
 </figure>
 
 Das Diagramm stellt übrigens auch ein konzeptionelles Modell dar.
@@ -209,8 +207,7 @@ Das Diagramm stellt übrigens auch ein konzeptionelles Modell dar.
 Der Ansatz von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> basiert auf dem <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org">Semantic Eye Framework</a>
 
 <figure class="img-no-background">
-
-![Semantic Eye Framework](/assets/semantic-eye-logo-with-title.svg){width="300"}
+    <img src="/assets/semantic-eye-logo-with-title.svg" alt="Nach reichts zeigende Hand (Manicule)" width="200">
 </figure>
 
 # Wie geht es Ihrer Digitalisierung?

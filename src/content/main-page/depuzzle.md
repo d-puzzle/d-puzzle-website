@@ -4,25 +4,22 @@ Alle Mängel sind eng miteinander verknüpft. Zum Beispiel implizites Wissen, ob
 
 1 &#x2022; _Fachexperten_ schätzen die Komplexität ihrer Prozesslösung so ein:{.more-air}
 
-<figure class="img-dark-background">
-
-![Vermutete Komplexität der alten und der neuen Lösung](/assets/main-page/complexity-domain-experts.svg){width="500"}
+<figure class="img-no-background">
+    <img class="no-shadow" src="/assets/main-page/complexity-domain-experts.svg" alt="Links ein e-Bike, rechts ein e-Motorroller" width="500">
 </figure>
 
 2 &#x2022; Der _Software-Partner_ kennt die aktuelle Lösung kaum und
 schätzt die Komplexität der digitalen Lösung so ein:{.more-air}
 
-<figure class="img-dark-background">
-
-![Vermutete Komplexität der neuen Lösung](/assets/main-page/complexity-tech-experts.svg){width="500"}
+<figure class="img-no-background">
+    <img class="no-shadow" src="/assets/main-page/complexity-tech-experts.svg" alt="Links ein unscharf e-Bike, rechts eine Art e-Motorroller mit Sprchblase 'teilautonom'" width="500">
 </figure>
 
 3 &#x2022; Die _tatsächliche Komplexität_ der kleinsten, wirksamen Lösung ist später so:{.more-air}
 
-<figure class="img-dark-background">
-
-![Tatsächliche Komplexität der neuen Lösung](/assets/main-page/complexity-actual.svg){width="500"}
-<figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
+<figure class="img-no-background">
+    <img class="no-shadow" src="/assets/main-page/complexity-actual.svg" alt="Frachtflugzeug mit offener Frachttüre und Sprechblase 'Autopilot'" width="500">
+    <figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
 </figure>
 
 Kein Wunder sind alle Aufwand- und Kostenschätzungen um den Faktor 3 bis 10 zu tief!
@@ -36,28 +33,27 @@ Automatisierung ist in jeder Industrie _schwierig_.{.p-statement .framed}
 Die zwei _Grundursachen_ aller aufgeführten Mängel sind:{.more-air}
 </div>
 
-
 <div class="card-container">
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Keine gemeinsame Sprache</h4>
             <p>Es fehlt eine standardisierte, <em>fachorientierte Sprache</em> zwischen Fach- & Technologieexperten.</p>
-            <p>Die Kommunikation ist geprägt von <em>Lücken und Missverständnissen</em></p>
+            <p>Die Kommunikation ist geprägt von <em>Schwierigkeiten und Missverständnissen</em></p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Kein umfassendes Soll-Bild</h4>
-            <p>Es gibt keine verständliches, <em>präzises und detailliertes Gesamtbild</em> der Fachgebiete, -regeln & -prozesse.</p>
-            <p>(Weder eines für heute noch eines für «morgen»)</p>
+            <p>Es gibt kein (oder kein zugängliches) <em>Gesamtbild</em> der Fachgebiete, -regeln & -prozesse.</p>
+            <p>Die zukünftige Lösung ist ein <em>Puzzle</em>, von dem man nicht weiss, wie es einmal aussehen soll</p>
         </div>
     </div>
 </div>
 <div class="single-column-text">
 
-Die Bauindustrie zeichnet seit über 500 Jahren mit grossem Erfolg _massstabtreue Pläne_, 
+Die Bauindustrie erstellt seit über 500 Jahren mit grossem Erfolg _massstabtreue Pläne_, 
 die eine _visuelle Standardsprache_ verwenden und
 ein _Modell der Soll-Lösung_ darstellen.{.p-statement .more-air .framed}
 

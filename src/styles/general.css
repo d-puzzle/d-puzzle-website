@@ -121,9 +121,12 @@ sup {
 img {
   display: block;
   max-width: 100%;
+
 }
 
 figure {
+  display: grid;
+  columns: 1;
   justify-items: center;
   min-width: 250px;
   /* max-width: 520px; */
@@ -133,6 +136,12 @@ figure {
   margin-inline-end: 0;
   
   break-inside: avoid;
+
+  img {
+    border-radius: 8px;
+    box-shadow: 4px 8px 16px rgba(0,0,0,0.3);
+
+  }
 }
 
 figcaption {
