@@ -1,17 +1,18 @@
-<div class="single-column-text top-separator">
+<div class="single-column-text">
 
-_Digitalisierung ist Automatisierung_.
-Automatisierung ist immer _schwierig_.{.p-statement .airbourne .framed}
+Die meisten _Digitalisierungen_ kommen früher oder später
+in _grosse Schwierigkeiten_.{.p-big}
 
-Die meisten _Digitalisierungen_ kommen früher oder später in
-_grosse Schwierigkeiten_.{.p-big .airbourne}
+<div class="d-puzzle-phrase top-separator more-air">
+    <img src="/assets/phrase-lets-depuzzle-dark-bg.svg" alt="let's depuzzle">
+</div>
 </div>
 
 <div class="card-container">
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Das Debakel folgt stets demselben Muster</h3>
+            <h4>Das Debakel folgt stets demselben Muster</h4>
             <p>1&ndash;Begeisterung im Management</p>
             <p>3&ndash;Überforderung im Projektteam</p>
             <p>3&ndash;Wenig effektive Lösung</p>
@@ -25,7 +26,7 @@ _grosse Schwierigkeiten_.{.p-big .airbourne}
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Und es zeigen sich stets dieselben Mängel</h3>
+            <h4>Und es zeigen sich stets dieselben Mängel</h4>
             <p>Viel implizites<sup>*</sup> Fachwissen</p>
             <p>Oberflächliches Prozessverständnis</p>
             <p>Unterschätzte Komplexität</p>
@@ -36,37 +37,5 @@ _grosse Schwierigkeiten_.{.p-big .airbourne}
                 <p class="footnote"><sup>*</sup> undokumentiert, nur wenigen bekannt</p>
             </div>
         </div>
-    </div>
-</div>
-
-<div class="single-column-text airbourne">
-
-Alle Mängel sind eng miteinander verknüpft. Zum Beispiel implizites Wissen, oberflächliches Verständnis und _unterschätzte Komplexität_.{.p-big}
-
-So schätzen die _Fachexperten_ die Komplexität ihrer Digitalisierung ein:{.p-big .airbourne}
-
-<figure class="img-dark-background">
-
-![Vermutete Komplexität der alten und der neuen Lösung](/assets/main-page/complexity-domain-experts.svg){width="500"}
-</figure>
-
-Das denkt der _Software-Partner_ über die digitale Lösung:<br>(die aktuelle Lösung kennt er kaum){.p-big .airbourne}
-
-<figure class="img-dark-background">
-
-![Vermutete Komplexität der neuen Lösung](/assets/main-page/complexity-tech-experts.svg){width="500"}
-</figure>
-
-Und dies is die _tatsächliche Komplexität_ der kleinsten, wirksamen Lösung:{.p-big .airbourne}
-
-<figure class="img-dark-background">
-
-![Tatsächliche Komplexität der neuen Lösung](/assets/main-page/complexity-actual.svg){width="500"}
-<figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
-</figure>
-
-<div class="single-column-text">
-    <div class="d-puzzle-slogan airbourne">
-        <img src="assets/puzzled-question-dark-bg.svg" alt="puzzled?">
     </div>
 </div>

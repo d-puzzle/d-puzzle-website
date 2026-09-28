@@ -3,44 +3,69 @@
 # Organisationen brauchen Software
 
 Für Firmen, Verwaltungen, Institutionen, Clubs, etc. ist Software unternehmenskritisch.{.p-statement .framed}
-
-- Bereitstellung von nützlichen und cleveren Services für sich, ihre Kunden und Partner.
-- Steigerung der eigenen Produktivität und Qualität.</li>
-- Sicherstellung von Transparenz und Compliance (z.B. Nachvollziehbarkeit).
-- Und vieles mehr.
-
-# Die meisten Software-Projekte laufen aus dem Ruder
-
-Hier sind die wichtigsten Auswirkungen der auf der <a href="/index.html">Hauptseite</a> aufgezählten Mängel:{.p-big}
 </div>
 
 <div class="card-container">
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Implizites Fachwissen und Prozessverständnis</h3>
+            <h4>Produkte und Services</h4>
+            <p>Bereitstellung von nützlichen und cleveren Produkten und Services für sich selbst, für Kunden und Partner</p>
+        </div>
+    </div>
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>Performance</h4>
+            <p>Steigerung der eigenen <em>Produktivität und Qualität</em> sowie derjenigen von Kunden und Partnern</p>
+        </div>
+    </div>
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>Governace & Compliance</h4>
+            <p>Sicherstellung von definierter Verantwortung und kontrollierter Machausübung, Transparenz, Nachvollziehbarkeit, etc.</p>
+        </div>
+    </div>
+</div>
+
+<div class="single-column-text">
+
+# Software-Projekte laufen zu oft aus dem Ruder
+
+In den meisten Digitalisierungsprojekten sind folgende _Mängel und Auswirkungen_ zu beobachten:
+</div>
+
+<div class="card-container">
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>Implizites<sup>*</sup> Fachwissen und Prozessverständnis</h4>
             <p><em>Führen zu:</em></p>
             <p>&ndash; Falschen Annahmen</p>
             <p>&ndash; Unterschätzen der Komplexität</p>
             <p>&ndash; Lösen der falschen Probleme</p>
-            <p>&ndash; Nutzlosen Lösungen</p>
+            <p>&ndash; Nicht akzeptierten Lösungen</p>
+            <div class="footnotes">
+                <p class="footnote"><sup>*</sup> undokumentiert, nur wenigen bekannt</p>
+            </div>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3 class="h3-two-lines">Unterschätzte Komplexität</h3>
+            <h4 class="h4-two-lines">Unterschätzte Komplexität</h4>
             <p><em>Bewirkt:</em></p>
-            <p>&ndash; illusorische Erwartungen</p>
-            <p>&ndash; zu tiefe Aufwandschätzungen</p>
-            <p>&ndash; unrealistische Zeitpläne</p>
-            <p>&ndash; massive Mehrkosten oder Projektstopp</p>
+            <p>&ndash; Illusorische Erwartungen</p>
+            <p>&ndash; Zu tiefe Aufwandschätzungen</p>
+            <p>&ndash; Unrealistische Zeitpläne</p>
+            <p>&ndash; Massive Mehrkosten oder Projektstopp</p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Abweichende Vorstellungen und Ziele</h3>
+            <h4>Abweichende Vorstellungen und Ziele</h4>
             <p><em>Verursachen:</em></p>
             <p>&ndash; Verwirrung im Projektteam</p>
             <p>&ndash; Behindernde Kompromisse</p>
@@ -51,7 +76,7 @@ Hier sind die wichtigsten Auswirkungen der auf der <a href="/index.html">Hauptse
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Methodische Schwächen und fehlende digitale Tools</h3>
+            <h4>Methodische Schwächen und fehlende digitale Tools</h4>
             <p><em>Sind verantwortlich für:</em></p>
             <p>&ndash; Mangelnde Klarheit und Übersicht</p>
             <p>&ndash; Vorschnelle oder falsche Lösungen</p>
@@ -63,30 +88,138 @@ Hier sind die wichtigsten Auswirkungen der auf der <a href="/index.html">Hauptse
 
 <div class="single-column-text">
 
-Wir müssen Digitalisierungen radikal anders angehen.{.p-statement .airbourne .framed}
+(Vergleiche auch mit <a href="/index.html">Hauptseite</a>)
 
-Heute vorherrschender, _agiler Ansatz_, der _sofort mit Software-Entwicklung beginnt_ und (zu) häufig zu den oben beschriebenen, _massiven Problemen_ führt:{.p-big .airbourne}
+# Agile Software-Entwicklung
 
-<figure class="img-light-background">
+Der heute dominierende, agile Ansatz beginnt eine Digitalisierung praktisch _sofort mit Software-Entwicklung_. Weder der Kunde noch der Software-Partner haben ein tiefes Verständnis für die Abläufe und die Komplexität der bisherigen Prozesse, da diese kaum oder nur oberflächlich dokumentiert sind.
+
+<figure class="img-no-background">
 
 ![Agiles Vorgehen](/assets/transformation-path/evolution-agile.svg){width="700"}
 </figure>
 
-Der _Ansatz von d-puzzle_, setzt eine standardisierte Prozess- und Fachsprache ein; er erarbeitet _konzeptionelle Modelle_ mit modernsten digitalen Tools und validiert erstere, bevor die der Software-Partner ausgewählt und die Umsetzung gestartet wird:{.p-big .airbourne}
+Agile Entwicklung setzt _Software als extrem teures Kommunikationsmittel_ zwischen Fach- und Technologiespezialisten ein. Und endet zu oft mit den oben beschriebenen, _massiven Problemen_.
 
-<figure class="img-light-background">
+Wir müssen Digitalisierungen radikal anders angehen.{.p-statement .more-air .framed}
+
+# Das modellbasierte Vorgehen von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name">{.airbourne}
+
+Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe von digitalen Modellen erarbeitet_, getestet und direkt verbessert werden können, ohne dass bereits Gruben ausgehoben, Metall gefräst oder teure Textilien zerschnitten werden müssen.
+
+<figure class="img-no-background">
 
 ![Agiles Vorgehen](/assets/transformation-path/evolution-d-puzzle.svg){width="1000"}
+<figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
+
 </figure>
 
-Selbstverständlich ist dieser Ansatz iterativ und kann Erkenntnisse während späteren Phase ggf. vorne wieder einspeisen.
-Er stützt sich auf den _Double Diamond_ des British Design Council und stellt damit sicher, dass das richtige Problem erkannt und mit der besten Lösung adressiert wird.{.p-big .airbourne}
+Mithilfe _modernster digitaler Tools_ erarbeiten wir _konzeptionelle Modelle_ und validieren sie mit allen relevanten Stakeholders &mdash; bevor Software-Plattformen und -Partner ausgewählt oder die Umsetzung gestartet wird.
+
+Dadurch erreichen wir Folgendes:
+</div>
+
+<div class="card-container">
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>Tiefes Verständnis</h4>
+            <p>Effizient und präzise <em>verstehen</em>, was die Organisation <em>heute</em> tut</p>
+            <p>(<i>«Wie arbeiten wir heute? Warum?»</i>)</p>
+            <p>Das gewonnene Wissen wird nachaltig dokumentiert</p>
+        </div>
+    </div>
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>Abgestimmtes Zielbild</h4>
+            <p>Ausgehend von Strateige und Zielen ein <em>breit akzeptiertes Zielbild</em> erstellen</p>
+            <p>(<i>«Wie wollen wir in drei Jahren digital unterstützt arbeiten?»</i>)</p>
+        </div>
+    </div>
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>End-to-End-Prozesse</h4>
+            <p>Die <em>Fachprozesse stehen im Zentrum</em> und werden von Ende zu Ende durchgedacht</p>
+            <p>(z.B. von der Anfrage eines Kunden über Lieferung und Rechnung bis zu Garantieleistung)</p>
+        </div>
+    </div>
+    <div class="image-text-card">
+        <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
+        <div class="card-text-content">
+            <h4>Validiertes Prozess-Design</h4>
+            <p>Bedarf nach <em>fachlichen und technischen Prototypen</em> gezielt erkennen, diee bauen und validieren</p>
+            <p>(Gezielte <em>Risikominderung</em>)</p>
+        </div>
+    </div>
+</div>
+
+<div class="single-column-text">
+
+Diese Ergebnisse werden überwiegend _mit den Fachexperten und dem Management_ erarbeitet, aber regelmässig von Software- und anderen Technologie-Architekten unterstützt und hinterfragt (Machbarkeit, Kosten).{.air}
+
+Dazu verwendet <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> eine _standardisierte Prozess- und Fachsprache_, die auch die Grundlage für die Modelle bildet.{.air}
+
+Selbstverständlich ist der Ansatz iterativ und kann bei Bedarf Erkenntnisse aus späteren Phasen vorne wieder einspeisen.
+
+## Konzeptionelle Modelle
+
+Ein konzeptionelles Modell ist eine _Erklärung_ &mdash; meist eine stark vereinfachte &mdash;, wie etwas funktioniert oder aufgebaut ist. Konzeptionelle Modelle müssen weder vollständig noch besonders genau sein ... so lange sie nützlich sind. Sie ermöglichen dem Leser, etwas zu _verstehen_ und korrekte Überlegen zu dem modellierten Gegenstand anzustellen <a href="#f1"><sup>1</sup></a>.
+
+Ein gutes Beispiel ist das Verdunstungs-Niederschlagsmodell für das Wetter.
+
+<figure class="img-no-background">
+
+![Verdunstungs-Niederschlagsmodell für das Wetter](/assets/transformation-path/wetter-modell.jpg){width="1000"}
+<figcaption><p>Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a></p></figcaption>
+</figure>
+
+In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für das Verständnis und die Kommunikation des Zyklus von Verdunstung und Niederschlag ist das Modell oben extrem hilfreich.
+
+<div class="d-puzzle-logo">
+    <img src="/assets/logo-circle-flat-dark-bg.svg" alt="logo">
+</div>
+
+
+Ein weiteres Beispiel sind Pläne, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Sie werden mit allen Betroffenen diskutiert, dann angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird oder ein Bagger auffährt.{.air}
+
+<figure class="img-no-background">
+
+![Grundriss für eine Wohnung](/assets/transformation-path/floor-plan-pixabay.jpg){width="1000"}
+</figure>
+
+Die konzeptionellen Modelle von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> können sehr detaiiliert sein und sind für die ganze Organisation zugänglich.
+
+Sie stellen eine _nachhaltige, Software-unabhängige Beschreibung_ der Prozesse, des Fachwissens und der Fachregeln der Organisation dar.{.p-statement .framed .more-air}
+
+## Double Diamond
+
+Der <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg">-Ansatz stützt sich auf den _Double Diamond_ des British Design Council und stellt damit sicher, dass _das wahre Problem erkannt_ und mit der _besten Lösung adressiert_ wird <a href="#f2"><sup>2</sup></a>.
 
 <figure class="img-light-background">
 
-![Agiles Vorgehen](/assets/transformation-path/double-diamond.svg){width="700"}
+![Double Diamond Vorgehen](/assets/transformation-path/double-diamond.svg){width="700"}
 </figure>
 
+Das Diagramm stellt übrigens auch ein konzeptionelles Modell dar.
+
+## Grundlage
+
+Der Ansatz von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> basiert auf dem <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org">Semantic Eye Framework</a>
+
+<figure class="img-no-background">
+
+![Semantic Eye Framework](/assets/semantic-eye-logo-with-title.svg){width="300"}
+</figure>
+
+# Wie geht es Ihrer Digitalisierung?
+
 Haben wir Ihr Interesse geweckt?
-Nehmen Sie mit uns <a href="/pages/contact/index.html">Kontakt</a> auf!{.p-statement .airbourne .framed}
+Nehmen Sie <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}
+
+<div class="footnotes more air">
+    <div class="footnote" id="f1"><sup>1</sup> Don Norman, 2012, The Design of Everyday Things, Kap. 1</div>
+    <div class="footnote" id="f2"><sup>2</sup> Don Norman, 2012, The Design of Everyday Things, Kap. 6</div>
+</div>
 </div>

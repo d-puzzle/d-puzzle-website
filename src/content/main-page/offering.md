@@ -1,8 +1,11 @@
-<div class="single-column-text top-separator">
+<div class="single-column-text">
 
-Wir ersetzen Verwirrung und Überforderung durch<br>_Klarheit und systematischen Erfolg_.{.p-statement .airbourne}
+<p class="p-statement more-air framed">
+<img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Trial & Error<br>mit Klarheit & Methode
+</p>
 
-Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transformation_.{.p-big .airbourne}
+Und wir befähigen Ihre Organisationen als
+_Leader ihrer eigenen Digitalen Transformation_.{.p-big .more-air}
 
 </div>
 
@@ -10,7 +13,7 @@ Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transform
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Digitalisierung</h3>
+            <h4>Digitalisierung</h4>
             <p>Wir konzipieren, planen, führen<br>und unterstützen die<br><em>Evolution Ihrer Prozesse</em> oder<br>Ihre <em>Digitale Transformation</em><br>von der<br><em>Strategie bis zur Spezifikation</em>.</p>
             <p>&mdash;&mdash;</p>
             <p>Die Konzeption und Realisierung der Software überlassen wir den Partnern Ihrer Wahl.</p>
@@ -20,7 +23,7 @@ Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transform
     <a href="/pages/transformation-path/index.html" class="image-text-button-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Fokus Fachprozesse</h3>
+            <h4>Fokus Fachprozesse</h4>
             <p>Wir stellen Ihre organisatorischen <em>Prozesse ins Zentrum</em>.</p>
             <p>&mdash;&mdash;</p>
             <p>Zuerst bauen wir gemeinsam mit Ihren Fachleuten ein <em>präzises Verständnis</em> Ihrer aktuellen Fachprozesse und Geschäftsbereiche auf.</p>
@@ -32,7 +35,7 @@ Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transform
     <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org/" class="image-text-button-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Innovatives, toolgestütztes Vorgehen</h3>
+            <h4>Innovatives, toolgestütztes Vorgehen</h4>
             <p>Unser äusserst innovativer, methodischer Ansatz, der durch unsere eigenen, <em>modernsten Tools</em> überhaupt erst möglich wird, setzt neue Masstäbe für Transparenz, <em>Wissensmanagement</em> und Integration der Stakholder.</p>
             <p>Wir erstellen <em>kohärente Modelle</em> Ihrer aktuellen und Ihrer zukünftigen Lösung &mdash; daraus ergibt sich die Transformation.</p>
             <p>Die Soll-Modelle bilden die <em>verlässliche Grundlage</em> für die Auswahl der Partner und für die Umsetzung sowohl der digitalen wie auch der organisatorischen Elemente.
@@ -42,7 +45,7 @@ Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transform
     <a href="/pages/contact/index.html" class="image-text-button-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h3>Projekt-Audits, Projektleitung</h3>
+            <h4>Projekt-Audits, Projektleitung</h4>
             <p>Die meisten Software-Projekte in Unternehmen geraten in Schieflage, müssen neu aufgestellt oder abgebrochen werden.</p>
             <p>Wir auditieren Projekte und machen (optional) aus einem Scherbenhaufen wieder ein <em>erfolgreiches Projekt</em>.</p>
             <p>Als sehr <em>erfahrene Projektleiter</em> führen wir Ihre Firma erfolgreich zu effektiven Prozessen und Software-Lösungen<sup>*</sup>.</p>
@@ -54,9 +57,22 @@ Wir befähigen Ihre Organisationen als _Leader ihrer eigenen Digitalen Transform
     </a>
 </div>
 
-<div class="single-column-text airbourne">
+<div class="single-column-text more-air">
 
-Ein vollständiges Puzzle richtig zusammenzusetzen ist reine Fleissarbeit. {.p-big}
+Haben wir Ihr Interesse geweckt?
+Nehmen Sie <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}
 
-In 1000 Teilen frühzeitig das Gesamtbild zu erkennen, dessen Bedeutung richtig zu interpretieren und fehlende Teile zu beschaffen ist unser Metier.{.p-big}
+<div class="d-puzzle-logo">
+    <img src="/assets/logo-circle-flat-dark-bg.svg" alt="logo">
+</div>
+
+<div class="framed">
+
+Ein vollständiges Puzzle richtig zusammenzusetzen ist reine Fleissarbeit.
+
+In 1000 Teilen frühzeitig das Gesamtbild zu erkennen, 
+dessen Bedeutung richtig zu interpretieren
+und die fehlenden Teile zu beschaffen &mdash; 
+_das ist unser Metier_.
+</div>
 </div>
