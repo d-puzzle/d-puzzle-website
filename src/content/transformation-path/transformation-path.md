@@ -88,7 +88,7 @@ In den meisten Digitalisierungsprojekten sind folgende _Mängel und Auswirkungen
 
 <div class="single-column-text">
 
-(Vergleiche auch mit <a href="/index.html">Hauptseite</a>)
+Siehe auch <a href="/index.html">Hauptseite</a>.
 
 # Agile Software-Entwicklung
 
@@ -96,7 +96,7 @@ Der heute dominierende, agile Ansatz beginnt eine Digitalisierung praktisch _sof
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/transformation-path/evolution-agile.svg" alt="Zeitachse mit vier Kasten: e-Bike, e-Motorroller, dreirädriger e-Motorroller mit Flugzeugnase, e-Frachtflugzeug" width="700">
-    <figcaption><p>Evolution eines agil entwickelten Produkts (zeigt nur ausgewählte Releases)</p></figcaption>
+    <figcaption><p>Evolution eines agil entwickelten Produkts. Die bestehenden, vorwiegend manuellen Prozesse und Werkzeuge werden nicht systematisch studiert und verstanden. Stattdessen werden von Beginn weg Software-Anforderungen abgefragt und iterativ in Software umgesetzt. Was nicht in Software gegossen wird, ist ausserhalb des Projektumfangs&mdash;aber eigentlich nicht weniger wichtig.<br>(Das Diagramm zeigt der Übersichtlichkeit halber nur ausgewählte Releases)</p></figcaption>
 
 </figure>
 
@@ -110,7 +110,7 @@ Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe vo
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/transformation-path/evolution-d-puzzle.svg" alt="Zeitachse mit fünf Kasten: Ist-Modell, Anforderungen, Zielbild, Soll-Modell, e-Frachtflugzeug" width="1000">
-    <figcaption><p>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
+    <figcaption><p>Das Vorgehen erarbeitet zu Beginn zuerst ein abgestimmtes Modell der bestehenden Prozesse, später ein Modell der zukünftigen Prozesse und deren Automation. Die eigentliche digitale Transformation ist der Übergang von Ist zu Soll, der organisatorisch von aktivem Change-Mangaement begleitet wird. Software und Organisation werden iterativ «entwickelt».<br>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
 </figure>
 
 Mithilfe _modernster digitaler Tools_ erarbeiten wir _konzeptionelle Modelle_ und validieren sie mit allen relevanten Stakeholders &mdash; bevor Software-Plattformen und -Partner ausgewählt oder die Umsetzung gestartet wird.
@@ -132,8 +132,8 @@ Dadurch erreichen wir Folgendes:
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Abgestimmtes Zielbild</h4>
-            <p>Ausgehend von Strateige und Zielen ein <em>breit akzeptiertes Zielbild</em> erstellen</p>
-            <p>(<i>«Wie wollen wir in drei Jahren digital unterstützt arbeiten?»</i>)</p>
+            <p>Ausgehend von Strategie und Zielen ein <em>breit akzeptiertes Zielbild</em> erstellen</p>
+            <p>(<i>«Wie wollen wir in zwei Jahren digital unterstützt und automatisiert arbeiten?»</i>)</p>
         </div>
     </div>
     <div class="image-text-card">
@@ -141,15 +141,15 @@ Dadurch erreichen wir Folgendes:
         <div class="card-text-content">
             <h4>End-to-End-Prozesse</h4>
             <p>Die <em>Fachprozesse stehen im Zentrum</em> und werden von Ende zu Ende durchgedacht</p>
-            <p>(z.B. von der Anfrage eines Kunden über Lieferung und Rechnung bis zu Garantieleistung)</p>
+            <p>(z.B. von der Anfrage eines Kunden über Lieferung und Rechnung bis zur Garantieleistung)</p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Validiertes Prozess-Design</h4>
-            <p>Bedarf nach <em>fachlichen und technischen Prototypen</em> gezielt erkennen, diee bauen und validieren</p>
-            <p>(Gezielte <em>Risikominderung</em>)</p>
+            <p>Bedarf nach <em>fachlichen und technischen Prototypen</em> gezielt erkennen, diese bauen und validieren</p>
+            <p>(<em>Risikoabbau</em>)</p>
         </div>
     </div>
 </div>
@@ -164,32 +164,28 @@ Selbstverständlich ist der Ansatz iterativ und kann bei Bedarf Erkenntnisse aus
 
 ## Konzeptionelle Modelle
 
-Ein konzeptionelles Modell ist eine _Erklärung_ &mdash; meist eine stark vereinfachte &mdash;, wie etwas funktioniert oder aufgebaut ist. Konzeptionelle Modelle müssen weder vollständig noch besonders genau sein ... so lange sie nützlich sind. Sie ermöglichen dem Leser, etwas zu _verstehen_ und korrekte Überlegen zu dem modellierten Gegenstand anzustellen <a href="#f1"><sup>1</sup></a>.
+Ein konzeptionelles Modell ist eine _Erklärung_ &mdash; meist eine stark vereinfachte &mdash;, wie etwas funktioniert oder aufgebaut ist. Konzeptionelle Modelle müssen weder vollständig noch besonders genau sein ... solange sie nützlich sind. Sie ermöglichen es dem Leser, etwas Bestimmtes zu _verstehen_ und selbständig korrekte Überlegen zu dem modellierten Gegenstand anzustellen <a href="#f1"><sup>1</sup></a>.
 
 Ein gutes Beispiel ist das Verdunstungs-Niederschlagsmodell für das Wetter.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/wetter-modell.jpg" alt="Verdunstungs-Niederschlagsmodell für das Wetter" width="1000">
-    <figcaption><p>Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a></p></figcaption>
+    <figcaption><p>Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für das Verständnis und die Kommunikation des Zyklus von Verdunstung und Niederschlag ist das Modell oben extrem hilfreich.</p></figcaption>
 </figure>
 
-In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für das Verständnis und die Kommunikation des Zyklus von Verdunstung und Niederschlag ist das Modell oben extrem hilfreich.
-
-<div class="d-puzzle-logo">
-    <img class="no-shadow" src="/assets/logo-circle-flat-dark-bg.svg" alt="logo">
-</div>
-
-
-Ein weiteres Beispiel sind Pläne, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Sie werden mit allen Betroffenen diskutiert, dann angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird oder ein Bagger auffährt.{.air}
+Ein weiteres Beispiel sind Pläne, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Sie werden mit allen Betroffenen diskutiert, dann angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird, oder ein Bagger auffährt.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/floor-plan-pixabay.jpg" alt="Grundriss einer Wohnung" width="1000">
-    <figcaption><p>Grundriss einer Wohnung</a></p></figcaption>
+    <figcaption><p>Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind die Grundlage für Aufwandberechnungen und verbindliche Ausführungsverträge.</p></figcaption>
 </figure>
 
-Die konzeptionellen Modelle von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> können sehr detaiiliert sein und sind für die ganze Organisation zugänglich.
+Die konzeptionellen Modelle von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> sind <em>strukturiert und präzise</em>.
+Sie können sehr detaiiliert sein und sind für die ganze Organisation <em>zugänglich</em>.
 
 Sie stellen eine _nachhaltige, Software-unabhängige Beschreibung_ der Prozesse, des Fachwissens und der Fachregeln der Organisation dar.{.p-statement .framed .more-air}
+
+So sieht erstklassiges <em>Wissensmanagement</em> aus!{.more-air}
 
 ## Double Diamond
 
@@ -197,10 +193,10 @@ Der <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.sv
 
 <figure class="img-light-background">
     <img src="/assets/transformation-path/double-diamond.svg" alt="Double Diamond Vorgehen" width="700">
-    <figcaption><p>«Double Diamond» des Design Thinking</a></p></figcaption>
+    <figcaption><p>«Double Diamond» des Design Thinking. Im d-puzzle-Vorgehen liefert «Entwickeln» erst das Lösungskonzept (das konzeptionelle Soll-Modell), nicht die Software oder die bereits adaptierte Organisation.</p></figcaption>
 </figure>
 
-Das Diagramm stellt übrigens auch ein konzeptionelles Modell dar.
+Der Double Diamond ist übrigens auch ein konzeptionelles Modell.
 
 ## Grundlage
 
@@ -210,7 +206,7 @@ Der Ansatz von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name
     <img src="/assets/semantic-eye-logo-with-title.svg" alt="Nach reichts zeigende Hand (Manicule)" width="200">
 </figure>
 
-# Wie geht es Ihrer Digitalisierung?
+# Wie planen Sie Ihre Digitalisierung?
 
 Haben wir Ihr Interesse geweckt?
 Nehmen Sie <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}

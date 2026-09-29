@@ -4,8 +4,8 @@
 <img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Trial & Error<br>durch Klarheit & Methode
 </p>
 
-Wir befähigen damit Ihre Organisationen als
-_Leader ihrer eigenen Digitalen Transformation_.{.p-big .more-air}
+Damit befähigen wir Ihre Organisationen als
+_Leaderin ihrer eigenen Digitalen Transformation_.{.p-big .more-air}
 
 </div>
 
