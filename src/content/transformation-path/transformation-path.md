@@ -106,11 +106,11 @@ Wir müssen Digitalisierungen radikal anders angehen.{.p-statement .more-air .fr
 
 # Das modellbasierte Vorgehen von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name">{.airbourne}
 
-Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe von digitalen Modellen erarbeitet_, getestet und direkt verbessert werden können, ohne dass bereits Gruben ausgehoben, Metall gefräst oder teure Textilien zerschnitten werden müssen.
+Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe von digitalen Modellen erarbeitet_, getestet und direkt verbessert werden können, ohne dass bereits Betonfundamente gegossen, Stahlteile geschweisst oder teure Textilien zerschnitten werden müssen.
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/transformation-path/evolution-d-puzzle.svg" alt="Zeitachse mit fünf Kasten: Ist-Modell, Anforderungen, Zielbild, Soll-Modell, e-Frachtflugzeug" width="1000">
-    <figcaption><p>Das Vorgehen erarbeitet zu Beginn zuerst ein abgestimmtes Modell der bestehenden Prozesse, später ein Modell der zukünftigen Prozesse und deren Automation. Die eigentliche digitale Transformation ist der Übergang von Ist zu Soll, der organisatorisch von aktivem Change-Mangaement begleitet wird. Software und Organisation werden iterativ «entwickelt».<br>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
+    <figcaption><p>Das Vorgehen erarbeitet zu Beginn zuerst ein abgestimmtes Modell der bestehenden Prozesse, später ein Modell der zukünftigen Prozesse und deren Automation. Die eigentliche digitale Transformation ist der Übergang von Ist zu Soll, der organisatorisch von aktivem Change-Management begleitet wird. Software und Organisation werden iterativ «entwickelt».<br>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
 </figure>
 
 Mithilfe _modernster digitaler Tools_ erarbeiten wir _konzeptionelle Modelle_ und validieren sie mit allen relevanten Stakeholders &mdash; bevor Software-Plattformen und -Partner ausgewählt oder die Umsetzung gestartet wird.
@@ -206,10 +206,10 @@ Der Ansatz von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name
     <img src="/assets/semantic-eye-logo-with-title.svg" alt="Nach reichts zeigende Hand (Manicule)" width="200">
 </figure>
 
-# Wie planen Sie Ihre Digitalisierung?
+# Wie planst Du Eure Digitalisierung?
 
-Haben wir Ihr Interesse geweckt?
-Nehmen Sie <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}
+Haben wir Dein Interesse geweckt?
+Nimm <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}
 
 <div class="footnotes more air">
     <div class="footnote" id="f1"><sup>1</sup> Don Norman, 2012, The Design of Everyday Things, Kap. 1</div>

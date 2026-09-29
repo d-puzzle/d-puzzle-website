@@ -69,7 +69,7 @@ Viele Industrien gehen so vor und setzen _clevere digitale Tools_ ein.
 
 Lernen wir von ihnen!{.p-statement .more-air .framed}
 
-In der <a href="/pages/transformation-path/index.html">Einführung ins Projektvorgehen</a> erfahren Sie, was wir gelernt haben.{.more-air}
+Was wir gelernt haben, erfährst Du in der <a href="/pages/transformation-path/index.html">Einführung in unser Projektvorgehen</a>.{.more-air}
 
 <div class="puzzle-solved more-air">
     <img src="/assets/puzzle-4-solved-3D-dark-bg.svg" alt="puzzle of four pieces solved">

@@ -4,8 +4,9 @@
 <img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Trial & Error<br>durch Klarheit & Methode
 </p>
 
-Damit befähigen wir Ihre Organisationen als
-_Leaderin ihrer eigenen Digitalen Transformation_.{.p-big .more-air}
+Damit befähigen wir Deine Organisation als
+_Leaderin ihrer eigenen Digitalen Transformation_,
+denn Digitalisierung ist eine _Fähigkeit_, kein Projekt.{.p-big .more-air}
 
 </div>
 
@@ -59,8 +60,8 @@ _Leaderin ihrer eigenen Digitalen Transformation_.{.p-big .more-air}
 
 <div class="single-column-text more-air">
 
-Haben wir Ihr Interesse geweckt?
-Nehmen Sie <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}
+Haben wir Dein Interesse geweckt?
+Nimm <a href="/pages/contact/index.html">Kontakt</a> mit uns auf!{.p-statement .framed}
 
 <div class="d-puzzle-logo">
     <img src="/assets/logo-circle-flat-dark-bg.svg" alt="logo">
