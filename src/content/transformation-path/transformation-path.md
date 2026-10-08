@@ -96,7 +96,7 @@ Der heute dominierende, agile Ansatz beginnt eine Digitalisierung praktisch _sof
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/transformation-path/evolution-agile.svg" alt="Zeitachse mit vier Kasten: e-Bike, e-Motorroller, dreirädriger e-Motorroller mit Flugzeugnase, e-Frachtflugzeug" width="700">
-    <figcaption><p>Evolution eines agil entwickelten Produkts. Die bestehenden, vorwiegend manuellen Prozesse und Werkzeuge werden nicht systematisch studiert und verstanden. Stattdessen werden von Beginn weg Software-Anforderungen abgefragt und iterativ in Software umgesetzt. Was nicht in Software gegossen wird, ist ausserhalb des Projektumfangs&mdash;aber eigentlich nicht weniger wichtig.<br>(Das Diagramm zeigt der Übersichtlichkeit halber nur ausgewählte Releases)</p></figcaption>
+    <figcaption><p>Abb. 1 &mdash; Evolution eines agil entwickelten Produkts. Die bestehenden, vorwiegend manuellen Prozesse und Werkzeuge werden nicht systematisch studiert und verstanden. Stattdessen werden von Beginn weg Software-Anforderungen abgefragt und iterativ in Software umgesetzt. Was nicht in Software gegossen wird, ist ausserhalb des Projektumfangs&mdash;aber eigentlich nicht weniger wichtig.<br>(Das Diagramm zeigt der Übersichtlichkeit halber nur ausgewählte Releases)</p></figcaption>
 
 </figure>
 
@@ -110,7 +110,7 @@ Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe vo
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/transformation-path/evolution-d-puzzle.svg" alt="Zeitachse mit fünf Kasten: Ist-Modell, Anforderungen, Zielbild, Soll-Modell, e-Frachtflugzeug" width="1000">
-    <figcaption><p>Das Vorgehen erarbeitet zu Beginn zuerst ein abgestimmtes Modell der bestehenden Prozesse, später ein Modell der zukünftigen Prozesse und deren Automation. Die eigentliche digitale Transformation ist der Übergang von Ist zu Soll, der organisatorisch von aktivem Change-Management begleitet wird. Software und Organisation werden iterativ «entwickelt».<br>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
+    <figcaption><p>Abb. 2 &mdash; Das Vorgehen erarbeitet zu Beginn zuerst ein abgestimmtes Modell der bestehenden Prozesse, später ein Modell der zukünftigen Prozesse und deren Automation. Die eigentliche digitale Transformation ist der Übergang von Ist zu Soll, der organisatorisch von aktivem Change-Management begleitet wird. Software und Organisation werden iterativ «entwickelt».<br>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
 </figure>
 
 Mithilfe _modernster digitaler Tools_ erarbeiten wir _konzeptionelle Modelle_ und validieren sie mit allen relevanten Stakeholders &mdash; bevor Software-Plattformen und -Partner ausgewählt oder die Umsetzung gestartet wird.
@@ -170,14 +170,14 @@ Ein gutes Beispiel ist das Verdunstungs-Niederschlagsmodell für das Wetter.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/wetter-modell.jpg" alt="Verdunstungs-Niederschlagsmodell für das Wetter" width="1000">
-    <figcaption><p>Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für das Verständnis und die Kommunikation des Zyklus von Verdunstung und Niederschlag ist das Modell oben extrem hilfreich.</p></figcaption>
+    <figcaption><p>Abb. 3 &mdash; Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für die Kommunikation und das Verständnis und des Wasserzyklus ist das Modell oben extrem hilfreich.</p></figcaption>
 </figure>
 
 Ein weiteres Beispiel sind Pläne, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Sie werden mit allen Betroffenen diskutiert, dann angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird, oder ein Bagger auffährt.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/floor-plan-pixabay.jpg" alt="Grundriss einer Wohnung" width="1000">
-    <figcaption><p>Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind die Grundlage für Aufwandberechnungen und verbindliche Ausführungsverträge.</p></figcaption>
+    <figcaption><p>Abb. 4 &mdash; Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind die Grundlage für Aufwandberechnungen und verbindliche Ausführungsverträge.</p></figcaption>
 </figure>
 
 Die konzeptionellen Modelle von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> sind <em>strukturiert und präzise</em>.
@@ -193,7 +193,7 @@ Der <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.sv
 
 <figure class="img-light-background">
     <img src="/assets/transformation-path/double-diamond.svg" alt="Double Diamond Vorgehen" width="700">
-    <figcaption><p>«Double Diamond» des Design Thinking. Im d-puzzle-Vorgehen liefert «Entwickeln» erst das Lösungskonzept (das konzeptionelle Soll-Modell), nicht die Software oder die bereits adaptierte Organisation.</p></figcaption>
+    <figcaption><p>Abb. 5 &mdash; «Double Diamond» des Design Thinking.<br>Im d-puzzle-Vorgehen liefert «Entwickeln» erst das Lösungskonzept (das konzeptionelle Soll-Modell), nicht die Software oder die bereits adaptierte Organisation. Zur Risikominimierung ist das Lösungskonzept zu diesem Zeitpunkt bereits mit technischen und organisatorischen Proof-of-Concept-Prototypen untermauert.</p></figcaption>
 </figure>
 
 Der Double Diamond ist übrigens auch ein konzeptionelles Modell.

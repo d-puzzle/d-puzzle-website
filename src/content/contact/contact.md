@@ -4,7 +4,7 @@
 Dipl. Informatik Ing. ETH
 
 <span>oliver.reinhard (at) d-puzzle.ch</span>
-<span><img class="inline-image" src="/assets/contact/contact-ph-dark-bg.png" alt="" width="154px"></span>
+<span><img class="inline-image" src="/assets/contact/contact-ph-dark-bg.png" alt="" height="30px"></span>
 
 <p>
   <a href="https://www.linkedin.com/in/oliver-reinhard/" 
@@ -25,4 +25,4 @@ Monbijoustrasse 27
 3011 Bern
 Schweiz
 
-UID: CHE-368.779.800
+MWST-Nr: CHE-368.779.800 MWST

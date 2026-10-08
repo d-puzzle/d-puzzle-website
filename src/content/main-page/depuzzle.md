@@ -6,26 +6,28 @@ Alle Mängel sind eng miteinander verknüpft. Zum Beispiel implizites Wissen, ob
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/main-page/complexity-domain-experts.svg" alt="Links ein e-Bike, rechts ein e-Motorroller" width="500">
-    <figcaption><p>Sinnbildlich die Komplexität der aktuellen, nicht digitalisierten Lösung links, die der digitalen Zukunft rechts. Die Fachexperten haben meist keine Vorstellung davon, wie komplex ihre alltägliche Tätigkeit wirklich ist, und stellen sich vor, dass die digitalisierte Lösung einfach wird</p></figcaption>
+    <figcaption><p>Abb. 1 &mdash; Links, sinnbildlich die Komplexität der aktuellen, nicht digitalisierten Lösung.<br>Rechts, die der digitalen Zukunft. Die Fachexperten sind sich meist nicht bewusst, dass ihre alltägliche Tätigkeit ausserordentlich komplex ist. Sie stellen sich dehalb vor, dass die digitalisierte Lösung vergleichsweise einfach wird. (Hint: sie ist es nicht!)</p></figcaption>
 </figure>
 
 2 &#x2022; Der _Software-Partner_ kennt die aktuelle Lösung kaum und
-schätzt die Komplexität der digitalen Lösung so ein:{.air}
+schätzt die Komplexitäten so ein:{.air}
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/main-page/complexity-tech-experts.svg" alt="Links ein unscharf e-Bike, rechts eine Art e-Motorroller mit Sprchblase 'teilautonom'" width="500">
-    <figcaption><p>Die Technolgieexperten haben meist kein klares Bild der nicht digitalisierten Prozesse und müssen sich die Komplexität der neuen Lösung aufgrund von puzzle-artigen Anforderungen vorstellen</p></figcaption>
+    <figcaption><p>Abb. 2 &mdash; Die Technolgieexperten verschaffen sich meist kein detailliertes und präzises Bild der nicht digitalisierten Prozesse. Und sie müssen sich die Komplexität der neuen Lösung aufgrund von puzzle-artigen Anforderungen konstruieren, die sie von den Fachexperten erhalten.</p></figcaption>
 </figure>
 
 3 &#x2022; Die _tatsächliche Komplexität_ der kleinsten, wirksamen Lösung ist später so:{.air}
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/main-page/complexity-actual.svg" alt="Frachtflugzeug mit offener Frachttüre und Sprechblase 'Autopilot'" width="500">
-    <figcaption><p>Die unerwartet grosse Komplexität der Fachprozesse erfordert eine entsprechende Komplexität und neue Fähigkeiten der digitalisierten Lösung (Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
+    <figcaption><p>Abb. 3 &mdash; Die allseits unerwartet grosse Komplexität der Fachprozesse erfordert eine entsprechende Komplexität und neue Fähigkeiten der digitalisierten Lösung.<br>(Bilder erstellt mithilfe von Google Gemini, ©2026)</p></figcaption>
 </figure>
 
 Kein Wunder also sind alle Aufwand- und Kostenschätzungen
 um den _Faktor 3 bis 10_ zu tief!
+
+Der _Schaden_ ist jedoch angerichtet: das Projekt wird mit _unrealistischen Erwartungen_ gestartet. Das Lehrgeld wird enorm sein.
 </div>
 
 <div class="single-column-text more-air">
