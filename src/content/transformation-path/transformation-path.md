@@ -115,7 +115,7 @@ Wir haben uns bei erfolgreichen Industrien abgeschaut, wie _Produkte mithilfe vo
 
 Mithilfe _modernster digitaler Tools_ erarbeiten wir _konzeptionelle Modelle_ und validieren sie mit allen relevanten Stakeholders &mdash; bevor Software-Plattformen und -Partner ausgewählt oder die Umsetzung gestartet wird.
 
-Dadurch erreichen wir Folgendes:
+Dadurch erreichen wir in der Organisation Folgendes:
 </div>
 
 <div class="card-container">
@@ -132,7 +132,7 @@ Dadurch erreichen wir Folgendes:
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Abgestimmtes Zielbild</h4>
-            <p>Ausgehend von Strategie und Zielen ein <em>breit akzeptiertes Zielbild</em> erstellen</p>
+            <p>Ausgehend von Strategie und Zielen ein <em>breit akzeptiertes Zielbild</em> für <em>morgen</em> erstellen</p>
             <p>(<i>«Wie wollen wir in zwei Jahren digital unterstützt und automatisiert arbeiten?»</i>)</p>
         </div>
     </div>
@@ -148,8 +148,8 @@ Dadurch erreichen wir Folgendes:
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Validiertes Prozess-Design</h4>
-            <p>Bedarf nach <em>fachlichen und technischen Prototypen</em> gezielt erkennen, diese bauen und validieren</p>
-            <p>(<em>Risikoabbau</em>)</p>
+            <p>Bedarf nach <em>fachlichen und technischen Prototypen</em> gezielt erkennen, diese bauen und validieren.</p>
+            <p>Daraus resultieren <em>Risikominimierung</em> und <em>Effizienz</em>.</p>
         </div>
     </div>
 </div>
@@ -166,48 +166,54 @@ Selbstverständlich ist der Ansatz iterativ und kann bei Bedarf Erkenntnisse aus
 
 Ein konzeptionelles Modell ist eine _Erklärung_ &mdash; meist eine stark vereinfachte &mdash;, wie etwas funktioniert oder aufgebaut ist. Konzeptionelle Modelle müssen weder vollständig noch besonders genau sein ... solange sie nützlich sind. Sie ermöglichen es dem Leser, etwas Bestimmtes zu _verstehen_ und selbständig korrekte Überlegen zu dem modellierten Gegenstand anzustellen <a href="#f1"><sup>1</sup></a>.
 
+### Beispiel Wasserkreislauf
+
 Ein gutes Beispiel ist das Verdunstungs-Niederschlagsmodell für das Wetter.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/wetter-modell.jpg" alt="Verdunstungs-Niederschlagsmodell für das Wetter" width="1000">
-    <figcaption><p>Abb. 3 &mdash; Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für die Kommunikation und das Verständnis des Wasserzyklus ist das Modell oben extrem hilfreich.</p></figcaption>
+    <figcaption><p>Abb. 3 &mdash; Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für die Kommunikation und das Verständnis des Wasserzyklus ist das Modell oben extrem hilfreich. Unter anderem sind alle relevanten Begriffe eingeführt und an den richtigen Stellen verortet.</p></figcaption>
 </figure>
 
-Ein weiteres Beispiel sind Pläne, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Sie werden mit allen Betroffenen diskutiert, dann angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird, oder ein Bagger auffährt. Aussergewöhnliche konstruktive Details werden mit Fachleuten validiert, denn sie können grossen Einfluss auf das Gesamtkonzept und die Kosten haben. Wenn alle Beteiligten das Konzept akzeptieren, werden Partner gesucht und die Umsetzung im Detail geplant.
+### Beispiel Bauen
+
+Ein weiteres Beispiel sind _Pläne_, die für den Bau eines Gebäudes oder einer Maschine angefertigt werden. Pläne sind _konzeptionelle Modelle des zukünftigen Produkts_ und damit ein sehr _präzises Kommunikationsmittel_. Sie werden mit allen Betroffenen erarbeitet, diskutiert, angepasst und wieder diskutiert &mdash; lange bevor ein Bauunternehmer verpflichtet wird, oder ein Bagger auffährt. Aussergewöhnliche konstruktive Details werden mit Fachleuten validiert, denn sie können grossen Einfluss auf das Gesamtkonzept und die Kosten haben. Wenn alle Beteiligten das Konzept akzeptieren, werden Partner gesucht und die Umsetzung im Detail geplant.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/floor-plan-pixabay.jpg" alt="Grundriss einer Wohnung" width="1000">
-    <figcaption><p>Abb. 4 &mdash; Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind die Grundlage für Aufwandberechnungen und verbindliche Ausführungsverträge.</p></figcaption>
+    <figcaption><p>Abb. 4 &mdash; Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind eine essenzielle Grundlage für verbindliche Aufwandberechnungen und Ausführungsverträge sowie für die Abnahme.</p></figcaption>
 </figure>
 
-<img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> überträgt diesen _erfolgreichen Ansatz_ auf die Digitalisierung von Organisationen, deren Fachgebiete und Prozesse.
+Alle Industrien, die heute über mächtige digitale Werkzeuge und digitalisierte (d.h. automatisierte) Prozesse verfügen, entwickeln und planen auf der Basis von konzeptionellen Modellen.{.p-statement .framed}
 
-_Unsere konzeptionellen Modelle_ sind:
+### Organisationen und ihre End-to-End-Prozesse
 
+<img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> überträgt diesen _erfolgreichen Ansatz_ auf die Digitalisierung von Organisationen, deren Fachgebiete und Prozesse:
+Wir erstellen _digitale «Pläne» der zukünftigen Lösung_ als _präzises Kommunikationsmittel_, bevor Software im Detail geplant und entwickelt wird.
 </div>
 
 <div class="card-container">
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h4>Strukturiert und Präzise</h4>
-            <p>Die digitalen Tools ermöglichen Navigation und inhaltliches <em>Zooming</em>.</p>
-            <p>Die Inhalte variieren ganz bewusst in ihrer Genauigkeit, sind aber <em>immer konsistent</em>.</p>
+            <h4>Grafisch und Textuell</h4>
+            <p>Die <em>konzeptionellen Modelle</em> werden vorwiegend<br><em>grafisch dargestellt</em> jedoch in<br><em>textueller Form abgelegt</em>.</p>
+            <p>Das macht sie für<br><em>Versionierung, Tools und KI zugänglich</em>.</p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
-            <h4>Grafisch und Textuell</h4>
-            <p>Die Modelle werden vorwiegend <em>grafisch dargestellt</em> jedoch<br><em>in textueller Form abgelegt</em>.</p>
-            <p>Das macht sie<br><em>für Tools und KI zugänglich</em>.</p>
+            <h4>Strukturiert und Präzise</h4>
+            <p>Die digitalen Tools ermöglichen gezielte <em>Navigation</em> und inhaltliches <em>Zooming</em>.</p>
+            <p>Die Inhalte variieren ganz bewusst in ihrer Genauigkeit, sind aber jederzeit <em>strukturell konsistent</em>.</p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Offen und Transparent</h4>
-            <p>Die Modelle können sehr umfassend und detaiiliert sein.</p>
+            <p>Die Modelle verwenden <em>dokumentierte Notationen</em> und sind <em>semantisch stark</em>.</p>
             <p>Sie werden typischerweise<br><em>mit der ganzen Organisation geteilt</em>.</p>
         </div>
     </div>
@@ -215,9 +221,9 @@ _Unsere konzeptionellen Modelle_ sind:
 
 <div class="single-column-text">
 
-Unsere konzeptionelle Modelle stellen eine _nachhaltige, Software-unabhängige Beschreibung_ der Prozesse, des Fachwissens und der Fachregeln der Organisation dar.{.p-statement .framed .more-air}
+Unsere konzeptionellen Modelle sind eine _verlässliche, Software-unabhängige Beschreibung_ der Prozesse, des Fachwissens und der Fachregeln der Organisation.{.p-statement .framed}
 
-So sieht erstklassiges, <em>nachhaltiges Wissensmanagement</em> aus!{.more-air}
+So sieht erstklassiges, <em>nachhaltiges Wissensmanagement</em> aus!{.air}
 
 ## Double Diamond
 
