@@ -6,7 +6,7 @@ Alle Mängel sind eng miteinander verknüpft. Zum Beispiel implizites Wissen, ob
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/main-page/complexity-domain-experts.svg" alt="Links ein e-Bike, rechts ein e-Motorroller" width="500">
-    <figcaption><p>Abb. 1 &mdash; Links, sinnbildlich die Komplexität der aktuellen, nicht digitalisierten Lösung.<br>Rechts, die der digitalen Zukunft. Die Fachexperten sind sich meist nicht bewusst, dass ihre alltägliche Tätigkeit ausserordentlich komplex ist. Sie stellen sich dehalb vor, dass die digitalisierte Lösung vergleichsweise einfach wird. (Hint: sie ist es nicht!)</p></figcaption>
+    <figcaption><p>Abb. 1 &mdash; Links, sinnbildlich die Komplexität der heutigen, nicht digitalisierten Lösung in der Einschätzung der Fachexperten. Rechts, die der digitalen Zukunft. Sie sind sich in der Regel gar nicht bewusst, dass ihre alltägliche Tätigkeit ausserordentlich komplex ist, und stellen sich deshalb vor, dass die digitalisierte Lösung vergleichsweise einfach wird. (Hint: sie wird es nicht!)</p></figcaption>
 </figure>
 
 2 &#x2022; Der _Software-Partner_ kennt die aktuelle Lösung kaum und
@@ -14,7 +14,7 @@ schätzt die Komplexitäten so ein:{.air}
 
 <figure class="img-no-background">
     <img class="no-shadow" src="/assets/main-page/complexity-tech-experts.svg" alt="Links ein unscharf e-Bike, rechts eine Art e-Motorroller mit Sprchblase 'teilautonom'" width="500">
-    <figcaption><p>Abb. 2 &mdash; Die Technolgieexperten verschaffen sich meist kein detailliertes und präzises Bild der nicht digitalisierten Prozesse. Und sie müssen sich die Komplexität der neuen Lösung aufgrund von puzzle-artigen Anforderungen konstruieren, die sie von den Fachexperten erhalten.</p></figcaption>
+    <figcaption><p>Abb. 2 &mdash; Die Technolgieexperten verschaffen sich meist kein detailliertes und präzises Bild der nicht digitalisierten Prozesse. Und sie müssen sich die Komplexität der zukünftigen Lösung aufgrund von puzzle-artigen Anforderungen konstruieren, die sie von den Fachexperten erhalten.</p></figcaption>
 </figure>
 
 3 &#x2022; Die _tatsächliche Komplexität_ der kleinsten, wirksamen Lösung ist später so:{.air}
@@ -27,7 +27,7 @@ schätzt die Komplexitäten so ein:{.air}
 Kein Wunder also sind alle Aufwand- und Kostenschätzungen
 um den _Faktor 3 bis 10_ zu tief!
 
-Der _Schaden_ ist jedoch angerichtet: das Projekt wird mit _unrealistischen Erwartungen_ gestartet. Das Lehrgeld wird enorm sein.
+Der _Schaden_ ist jedoch angerichtet: das Projekt wird mit _unrealistischen Erwartungen_ gestartet. Das _Lehrgeld_ und der _Impact_ auf die Organisation werden _enorm_ sein.
 </div>
 
 <div class="single-column-text more-air">
