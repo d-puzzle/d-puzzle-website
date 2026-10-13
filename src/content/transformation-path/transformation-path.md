@@ -181,10 +181,19 @@ Ein weiteres Beispiel sind _Pläne_, die für den Bau eines Gebäudes oder einer
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/floor-plan-pixabay.jpg" alt="Grundriss einer Wohnung" width="1000">
-    <figcaption><p>Abb. 4 &mdash; Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind eine essenzielle Grundlage für verbindliche Aufwandberechnungen und Ausführungsverträge sowie für die Abnahme.</p></figcaption>
+    <figcaption><p>Abb. 4 &mdash; Zweidimensionaler Grundriss einer Wohnung. Die graphische «Sprache» ist weltweit praktisch einheitlich und verursacht kaum Missverständnisse. Bauzeichner absolvieren eine Lehre von vier Jahren, um sie zu beherrschen. Die Pläne (engl. <i>blueprints</i>) sind eine essenzielle Grundlage für verbindliche Aufwandberechnungen und Ausführungsverträge sowie für die Abnahme.</p></figcaption>
 </figure>
 
-Alle Industrien, die heute über mächtige digitale Werkzeuge und digitalisierte (d.h. automatisierte) Prozesse verfügen, entwickeln und planen auf der Basis von konzeptionellen Modellen.{.p-statement .framed}
+Ergänzende Abmessungen für die dritte Dimension sowie Informationen zu Lichtverhältnissen und Materialeigenschaften ermöglichen die Generierung von realitätsnahen Ansichten.
+
+<figure class="img-no-background">
+    <img src="/assets/transformation-path/interior-design-simulation.jpg" alt="3D-Rendering einer Wohnung" width="1000">
+    <figcaption><p>Abb. 5 &mdash; Realitätsnahes Rendering einer zukünftigen Wohnung. Auch hinter dieser Ansicht steht ein konzeptionelles Modell, wenn auch ein extrem detailliertes, das Lichtquellen und -intensitäten sowie alle notwendigen Parameter für die Visualisierung von Materialien und Texturen enthält. Die Visualisierung entspricht nicht dem Grundriss von Abb. 4. (Quelle: EasyRender)</p></figcaption>
+</figure>
+
+Damit können z.B. Kunden wirksam überprüfen, ob die Wohnung ihren Vorstellungen entspricht. Inklusive Möblierung und Innendekoration, falls gewünscht. Nichts ist frustrierender und verschwenderischer, als Kunden die falsch bestellt haben, weil sie von einem unklaren oder falschen Bild ausgegangen sind. Die Kunden sind unzufrieden, auch wenn die Lieferanten beteuern, genau die Spezifikation umgesetzt zu haben.
+
+Alle Industrien, die heute über mächtige digitale Werkzeuge und digitalisierte (d.h. automatisierte) Prozesse verfügen, entwickeln, planen und verifizieren auf der Basis von konzeptionellen Modellen.{.p-statement .framed .more-air}
 
 ### Organisationen und ihre End-to-End-Prozesse
 
@@ -234,7 +243,7 @@ Der <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.sv
     <figcaption><p>Abb. 5 &mdash; «Double Diamond» des Design Thinking.<br>Im d-puzzle-Vorgehen liefert «Entwickeln» erst das Lösungskonzept (das konzeptionelle Soll-Modell), nicht die Software oder die bereits adaptierte Organisation. Zur Risikominimierung ist das Lösungskonzept zu diesem Zeitpunkt bereits mit technischen und organisatorischen Proof-of-Concept-Prototypen untermauert.</p></figcaption>
 </figure>
 
-Der Double Diamond ist übrigens auch ein konzeptionelles Modell.
+Der Double Diamond ist übrigens auch ein konzeptionelles Modell.{.framed}
 
 ## Grundlage
 

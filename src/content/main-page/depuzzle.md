@@ -45,7 +45,7 @@ Es gibt zwei _Grundursachen_ für alle aufgeführten Mängel:{.more-air}
             <h4>Keine gemeinsame Sprache</h4>
             <p>Es fehlt eine standardisierte, <em>fachorientierte Sprache</em> zwischen Fach- & Technologieexperten.</p>
             <p>Die Kommunikation ist geprägt von <em>Schwierigkeiten und Missverständnissen.</em></p>
-            <p>Die Fach- bzw. Technologieexperten können dem Gegenüber ihre Anforderungen <em>nicht präzise und koheränt</em> vermitteln.</p>
+            <p>Die Fach- bzw. Technologieexperten können jeweils dem Gegenüber ihre Anforderungen resp. Möglichkeiten <em>nicht präzise und koheränt</em> vermitteln.</p>
         </div>
     </div>
     <div class="image-text-card">
@@ -67,9 +67,14 @@ ein _Modell der Soll-Lösung_ darstellen.{.p-statement .more-air .framed}
 Ausgebildete _Architekten_ erarbeiten mit ihren Kunden Konzepte und _Pläne_.
 Die Pläne werden erst umgesetzt, wenn alle Stakeholders _einverstanden_ sind.{.more-air}
 
-Viele Industrien gehen so vor und setzen _clevere digitale Tools_ ein.
+Viele Industrien gehen so vor und setzen _clevere digitale Tools_ ein. Zum Beispiel zur realitätsnahen Visualisierung von Innenarchitektur und -ausstattung:
 
-Lernen wir von ihnen!{.p-statement .more-air .framed}
+<figure class="img-no-background">
+    <img src="/assets/transformation-path/interior-design-simulation.jpg" alt="3D-Rendering einer Wohnung" width="1000">
+    <figcaption><p>Abb. 4 &mdash; 3D-Visualisierung (Quelle: EasyRender)</p></figcaption>
+</figure>
+
+Lernen wir von ihnen!{.p-statement .framed}
 
 Was wir gelernt haben, erfährst Du in der <a href="/pages/transformation-path/index.html">Einführung in unser Projektvorgehen</a>.{.more-air}
 
