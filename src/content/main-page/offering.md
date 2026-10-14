@@ -1,7 +1,7 @@
 <div class="single-column-text">
 
 <p class="p-statement more-air framed">
-<img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Trial & Error<br>durch Klarheit & Methode
+<img class="d-puzzle-brand-img-inline-statement" src="/assets/d-puzzle-name-dark-bg.svg" alt="brand name"> ersetzt Unsicherheit, Trial & Error<br>durch Klarheit, Methode & digitale Tools.
 </p>
 
 Damit befähigen wir Deine Organisation als

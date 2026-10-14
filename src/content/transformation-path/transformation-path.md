@@ -172,7 +172,7 @@ Ein gutes Beispiel ist das Verdunstungs-Niederschlagsmodell für das Wetter.
 
 <figure class="img-no-background">
     <img src="/assets/transformation-path/wetter-modell.jpg" alt="Verdunstungs-Niederschlagsmodell für das Wetter" width="1000">
-    <figcaption><p>Abb. 3 &mdash; Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für die Kommunikation und das Verständnis des Wasserzyklus ist das Modell oben extrem hilfreich. Unter anderem sind alle relevanten Begriffe eingeführt und an den richtigen Stellen verortet.</p></figcaption>
+    <figcaption><p>Abb. 3 &mdash; Wasserkreislauf des Wetter- und Klimasystems (Quelle: <a target="_blank" rel="noopener noreferrer" href="https://www.klimafakten.de/kommunikation/die-wetter-und-klimamaschine-eine-einfuehrung">klimafakten.de</a> <span class="external-link">↗</span>). In der Realität sind die gezeigten Vorgänge viel komplexer und laufen etwas anders ab. Doch für die Kommunikation und das Verständnis des Wasserzyklus ist das Modell oben extrem hilfreich. Unter anderem sind alle relevanten Begriffe eingeführt und an den richtigen Stellen verortet.</p></figcaption>
 </figure>
 
 ### Beispiel Bauen
@@ -247,7 +247,7 @@ Der Double Diamond ist übrigens auch ein konzeptionelles Modell.{.framed}
 
 ## Grundlage
 
-Der Ansatz von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> basiert auf dem <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org">Semantic Eye Framework</a>
+Der Ansatz von <img class="d-puzzle-brand-img-inline" src="/assets/d-puzzle-name-dark-bg.svg"> basiert auf dem <a target="_blank" rel="noopener noreferrer" href="https://semantic-eye.org">Semantic Eye Framework</a> <span class="external-link">↗</span>.
 
 <figure class="img-no-background">
     <img src="/assets/semantic-eye-logo-with-title.svg" alt="Nach reichts zeigende Hand (Manicule)" width="200">

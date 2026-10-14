@@ -67,11 +67,11 @@ ein _Modell der Soll-Lösung_ darstellen.{.p-statement .more-air .framed}
 Ausgebildete _Architekten_ erarbeiten mit ihren Kunden Konzepte und _Pläne_.
 Die Pläne werden erst umgesetzt, wenn alle Stakeholders _einverstanden_ sind.{.more-air}
 
-Viele Industrien gehen so vor und setzen _clevere digitale Tools_ ein. Zum Beispiel zur realitätsnahen Visualisierung von Innenarchitektur und -ausstattung:
+Viele Industrien gehen so vor und setzen _clevere digitale Tools_ ein. Zum Beispiel zur Entwicklung und Visualisierung von Fahrzeugen:
 
 <figure class="img-no-background">
-    <img src="/assets/transformation-path/interior-design-simulation.jpg" alt="3D-Rendering einer Wohnung" width="1000">
-    <figcaption><p>Abb. 4 &mdash; 3D-Visualisierung (Quelle: EasyRender)</p></figcaption>
+    <img src="/assets/main-page/onshape-vigoz.jpg" alt="3D-Rendering eines pedal-elektrischen Fahrzeugs" width="1000">
+    <figcaption><p>Abb. 4 &mdash; Das pedal-elektrische Mobil von VIGOZ wird mithilfe einer CAD-Applikation im Internet-Browser entwickelt, visualisiert, versioniert und mit anderen geteilt (Quelle: <a target="_blank" rel="noopener noreferrer" href="https://www.onshape.com/en/resource-center/case-studies/cixi">Onshape</a> <span class="external-link">↗</span>)</p></figcaption>
 </figure>
 
 Lernen wir von ihnen!{.p-statement .framed}
