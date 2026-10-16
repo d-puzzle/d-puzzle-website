@@ -24,7 +24,7 @@ Für Firmen, Verwaltungen, Institutionen, Clubs, etc. ist Software unternehmensk
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Governace & Compliance</h4>
-            <p>Sicherstellung von definierter Verantwortung und kontrollierter Machausübung, Transparenz, Nachvollziehbarkeit, etc.</p>
+            <p>Sicherstellung von definierter <em>Verantwortung</em> und <em>kontrollierter Machausübung</em>, Transparenz, <em>Nachvollziehbarkei</em>, etc.</p>
         </div>
     </div>
 </div>

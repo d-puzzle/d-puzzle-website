@@ -27,7 +27,7 @@ schätzt die Komplexitäten so ein:{.air}
 Kein Wunder also sind alle Aufwand- und Kostenschätzungen
 um den _Faktor 3 bis 10_ zu tief!
 
-Der _Schaden_ ist jedoch angerichtet: das Projekt wird mit _unrealistischen Erwartungen_ gestartet. Das _Lehrgeld_ und der _Impact_ auf die Organisation werden _enorm_ sein.
+Der _Schaden_ ist jedoch angerichtet: das Projekt wird mit _unrealistischen Erwartungen_ gestartet. Das _Lehrgeld_ und der _Impact_ auf die Organisation sind oft _dramatisch_.
 </div>
 
 <div class="single-column-text more-air">
@@ -45,20 +45,24 @@ Es gibt zwei _Grundursachen_ für alle aufgeführten Mängel:{.more-air}
             <h4>Keine gemeinsame Sprache</h4>
             <p>Es fehlt eine standardisierte, <em>fachorientierte Sprache</em> zwischen Fach- & Technologieexperten.</p>
             <p>Die Kommunikation ist geprägt von <em>Schwierigkeiten und Missverständnissen.</em></p>
-            <p>Die Fach- bzw. Technologieexperten können jeweils dem Gegenüber ihre Anforderungen resp. Möglichkeiten <em>nicht präzise und koheränt</em> vermitteln.</p>
+            <p>Die Fachexperten können ihre <em>Prozesse und Anforderungen nicht präzise und koheränt</em> vermitteln.</p>
+            <p>Die Technologieexperten können <em>Verstandenes und Lösungsvorschläge nicht spiegeln</em> &mdash; ausser durch teure Software.</p>
         </div>
     </div>
     <div class="image-text-card">
         <img  src="/assets/card-icons/logo-circle-flat-light-bg.svg" alt="Logo small">
         <div class="card-text-content">
             <h4>Kein umfassendes Soll-Bild</h4>
-            <p>Es gibt kein (oder kein zugängliches) <em>Gesamtbild</em> der Fachgebiete, -regeln & -prozesse.</p>
-            <p>Die zukünftige Lösung ist ein <em>Puzzle</em>, von dem man nicht weiss, wie es einmal aussehen soll.</p>
-            <p>Ohne konsolidiertes Zielbild werden <em>Zusammenhänge übersehen</em> und <em>falsche Annahmen</em> getroffen, die dem Projekt schaden.</p>
+            <p>Jeder Fachexperte arbeitet im Detail <em>auf seine Weise</em> und hat eigene Ziele.</p>
+            <p>Es gibt <em>kein konsolidiertes Gesamtbild</em> der Fachgebiete, -regeln & -prozesse. Oder es ist nicht allgemein zugänglich.</p>
+            <p>Die zukünftige Lösung ist ein <em>Puzzle</em>, von dem niemand weiss, wie es einmal aussehen soll.</p>
+            <p>Ohne konsolidiertes Zielbild werden <em>wichtige Aspekte und Zusammenhänge übersehen</em> und <em>falsche Annahmen</em> getroffen. Beides <em>schadet</em> dem Ergebnis.</p>
         </div>
     </div>
 </div>
 <div class="single-column-text">
+
+Dies sind typische Kinderkrankheiten. Die Digitalisierungsindustrie ist vergleichsweise jung, andere sind ihr Jahrhunderte voraus:
 
 Die Bauindustrie erstellt seit über 500 Jahren mit grossem Erfolg _massstabtreue Pläne_, 
 die eine _visuelle Standardsprache_ verwenden und
